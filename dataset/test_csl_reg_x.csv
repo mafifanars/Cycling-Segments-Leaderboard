@@ -1,0 +1,788 @@
+user_age_group,user_id,attempt_date,smt_rank,smt_avg_spd,smt_name,user_weight_category,act_title,act_avg_spd,act_max_spd,act_total_km,act_moving_seconds,act_total_seconds,has_hr_data,id,gender
+25 to 34,564,2018-07-15,33,36.9,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Night Ride,34.6,50.8,41.61,4326,4326,0,2699,male
+25 to 34,323,2018-01-03,181,26.2,Starbucks to Majid,75 to 84 kg,احلى تمرين مع دراج جدة two hearts person biking: light skin tone ,25.4,40.3,45.37,6427,6427,0,332,male
+25 to 34,149,2019-07-19,3,56.0,Oghor 2 SailsIsland,54 kg and under,Afternoon Ride,22.6,85.3,78.45,12507,12507,0,3282,male
+45 to 54,1027,2018-06-22,142,11.1,North Corniche,75 to 84 kg,Morning Ride,12.1,16.9,21.01,6254,6254,0,5891,male
+35 to 44,823,2018-08-29,216,22.2,Starbucks to Majid,85 to 95 kg,تمرين جميل مع دراج جدة red heart ,21.9,45.7,57.15,9398,9398,0,858,male
+35 to 44,645,2014-10-15,50,39.0,Oghor 2 SailsIsland,115 kg and over,Evening Ride,36.7,46.8,8.77,861,861,1,4019,male
+20 to 24,141,2017-08-07,162,15.9,Headquarters Business Park,75 to 84 kg,Evening Ride,16.7,39.6,18.87,4066,4066,1,6213,male
+35 to 44,901,2020-03-07,358,22.6,Oghor 2 SailsIsland,,Morning Ride,18.5,37.1,36.04,7014,7014,0,4329,male
+45 to 54,685,2017-10-21,28,28.0,Obhur North Short,75 to 84 kg,Morning Ride,28.1,43.6,91.66,11740,11740,0,1650,male
+25 to 34,337,2019-05-15,195,25.8,Starbucks to Majid,65 to 74 kg,Night Ride,26.9,44.3,46.84,6258,6258,0,346,male
+25 to 34,419,2020-01-21,240,21.4,King Street side,54 kg and under,Evening Ride,20.6,42.8,50.35,8813,8813,0,2221,male
+45 to 54,1262,2017-09-11,62,25.0,King Street side,54 kg and under,Afternoon Ride,21.4,45.7,29.04,4876,4876,1,2574,male
+20 to 24,125,2018-02-16,96,19.4,North Corniche,55 to 64 kg,تمرين الجمعة مع جدة سايكلست بحضرو الكابتن عمر العمير bicycle ,17.7,41.0,24.38,4949,4949,0,4774,male
+35 to 44,851,2018-07-20,216,24.0,Headquarters Business Park,65 to 74 kg,Night Ride,19.7,39.2,39.41,7205,7205,0,7342,male
+25 to 34,499,2020-02-10,85,36.5,North Corniche,75 to 84 kg,Evening Ride,22.7,49.7,34.0,5387,5387,1,4883,male
+19 and under,29,2020-01-31,13,24.5,PRINCE SULTAN - ASSALAM TO FATIMA,54 kg and under,Relaxed ride sun ,17.1,34.2,45.46,9563,9563,0,2638,male
+25 to 34,319,2017-06-12,177,26.3,Starbucks to Majid,55 to 64 kg,Night Ride,24.2,37.1,27.28,4055,4055,0,328,male
+45 to 54,1004,2018-01-03,138,21.2,Oghor 2 SailsIsland,54 kg and under,Evening Ride,16.0,46.1,27.88,6266,6266,0,4552,male
+35 to 44,1221,2019-02-08,258,23.2,Headquarters Business Park,65 to 74 kg,Morning Ride,21.2,27.4,20.47,3479,3479,0,7391,male
+35 to 44,820,2019-04-01,212,29.9,Oghor 2 SailsIsland,75 to 84 kg,تمرين مع دراج جدة,23.5,41.8,42.23,6473,6473,1,4184,male
+45 to 54,2243,2019-02-02,12,11.0,Headquarters Business Park,54 kg and under,Night Ride,12.3,39.2,19.03,5560,5560,0,7820,female
+19 and under,1357,2019-11-15,3,32.8,Headquarters Business Park,75 to 84 kg,Morning Ride,18.9,77.0,37.13,7080,7080,0,5942,male
+20 to 24,129,2017-11-20,20,31.1,King Street side,54 kg and under,التمرين الاول يوم الاثنين,18.8,48.2,39.31,7519,7519,0,1941,male
+35 to 44,238,2018-03-05,300,25.4,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,24.4,49.3,54.81,8084,8084,0,4270,male
+25 to 34,518,2020-03-11,508,21.9,Oghor 2 SailsIsland,,Evening Ride,17.7,38.9,23.73,4821,4821,0,3838,male
+25 to 34,467,2017-05-17,571,19.0,Headquarters Business Park,75 to 84 kg,Evening Ride,16.7,43.6,24.32,5247,5247,0,6836,male
+25 to 34,254,2014-05-03,174,33.7,Oghor 2 SailsIsland,75 to 84 kg,Morning Ride with | Jeddah cyclists | 3 May,24.6,51.5,54.15,7920,7920,0,3478,male
+25 to 34,210,2017-12-24,93,29.6,Headquarters Business Park,75 to 84 kg,Evening Run,18.7,56.2,27.67,5336,5336,0,6358,male
+35 to 44,727,2016-06-22,174,25.3,Headquarters Business Park,75 to 84 kg,Night Ride,22.1,51.8,25.37,4128,4128,0,7300,male
+25 to 34,264,2020-01-20,32,42.2,Oghor 2 SailsIsland,85 to 95 kg,Night Ride,27.4,53.6,31.91,4198,4198,1,3312,male
+35 to 44,683,2017-11-27,32,34.5,S.Ubhur Alkurnaysh South Bound with detour,95 kg to 104 kg,Evening Ride,29.4,44.3,47.7,5837,5837,1,1295,male
+55 to 64,1047,2017-07-26,16,25.1,King Street side,75 to 84 kg,Cornice aerobic ride,23.4,36.4,44.68,6870,6870,0,2614,male
+25 to 34,365,2015-03-27,455,21.1,North Corniche,75 to 84 kg,Jeddah cyclists - hygiene bike,21.1,43.2,43.17,7362,7362,0,5250,male
+25 to 34,660,2016-10-10,37,41.7,Oghor 2 SailsIsland,75 to 84 kg,Morning Ride,30.1,43.9,18.32,2191,2191,1,3315,male
+20 to 24,1368,2019-04-08,69,28.5,Oghor 2 SailsIsland,54 kg and under,Evening Ride,19.0,36.7,18.63,3529,3529,0,3206,male
+45 to 54,1348,2019-05-30,69,20.7,PRINCE SULTAN - ASSALAM TO FATIMA,54 kg and under,Night Ride,19.5,28.4,20.12,3721,3721,0,3053,male
+25 to 34,409,2020-02-24,156,34.3,Oghor 2 SailsIsland,54 kg and under,Evening Ride,24.3,48.2,50.01,7420,7420,0,3470,male
+35 to 44,763,2016-11-07,312,21.8,Headquarters Business Park,95 kg to 104 kg,Evening Ride,20.4,36.4,9.8,1728,1728,1,7438,male
+20 to 24,91,2018-12-07,10,12.7,Obhur North Short,75 to 84 kg,Morning Ride,22.9,41.0,88.38,13893,13893,0,1451,male
+25 to 34,290,2016-05-30,120,34.6,North Corniche,54 kg and under,Night Ride,22.0,51.5,25.03,4093,4093,0,4915,male
+35 to 44,817,2019-07-12,228,23.9,Headquarters Business Park,95 kg to 104 kg,Morning Ride,21.4,40.7,44.53,7497,7497,0,7356,male
+19 and under,6,2017-11-20,4,41.3,King Street side,54 kg and under,تمرين الهوا الشديد,25.0,47.2,35.73,5155,5155,0,1893,male
+25 to 34,414,2019-02-22,145,29.0,King Street side,54 kg and under,جدةدراج مكه1440/0617,27.9,48.6,99.03,12763,12763,0,2126,male
+25 to 34,1944,2019-05-13,664,17.3,Headquarters Business Park,54 kg and under,Afternoon Ride,17.7,28.4,14.07,2856,2856,0,6930,male
+25 to 34,504,2016-01-08,580,17.2,Oghor 2 SailsIsland,75 to 84 kg,Morning Ride,16.3,36.7,23.67,5241,5241,0,3908,male
+25 to 34,1103,2019-10-11,41,35.5,Al Fardoos to shellfish round about,,Morning Ride,31.5,40.3,83.29,9526,9526,0,1746,male
+35 to 44,762,2019-03-24,46,31.3,Headquarters Business Park,85 to 95 kg,South wind blowing today ,23.1,46.8,21.7,3388,3388,0,7172,male
+45 to 54,1003,2018-02-16,84,19.4,Starbucks to Majid,105 kg to 114 kg,تمرينك غير مع ابن عمير man biking ,17.7,40.7,22.78,4631,4631,0,1053,male
+35 to 44,675,2019-12-26,17,39.6,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Lunch Ride,27.7,45.4,37.7,4908,4908,1,2851,male
+45 to 54,944,2019-04-27,22,29.9,Headquarters Business Park,75 to 84 kg,Morning Ride,28.7,40.3,43.09,5415,5415,1,7679,male
+20 to 24,1155,2017-04-28,61,29.6,Oghor 2 SailsIsland,85 to 95 kg,Morning Ride  تمرين صباح الجمعه,23.6,45.4,80.22,12217,12217,0,3196,male
+35 to 44,779,2018-10-12,77,7.9,Obhur North Short,54 kg and under,Afternoon Ride,19.7,36.7,81.29,14885,14885,1,1617,male
+35 to 44,238,2018-03-05,123,26.4,King Street side,65 to 74 kg,Evening Ride,24.4,49.3,54.81,8084,8084,0,2406,male
+25 to 34,1985,2019-03-22,739,14.3,Headquarters Business Park,54 kg and under,Afternoon Ride,15.3,34.2,27.53,6469,6469,0,7003,male
+25 to 34,522,2018-09-22,381,18.6,Starbucks to Majid,65 to 74 kg,Evening Ride,17.4,73.4,27.56,5716,5716,0,533,male
+25 to 34,1939,2019-08-20,651,17.5,Headquarters Business Park,54 kg and under,تمرين خفيف,15.1,29.2,10.03,2389,2389,0,6916,male
+25 to 34,449,2015-11-07,523,21.5,Oghor 2 SailsIsland,65 to 74 kg,زتمرين فردي رائع ومتعب بسبب الرياح الشديده من مسجد الرحمه الى البيك بداية الكورنيش والعوده الى دوار الجمل ثم الرجوع للموقع,18.5,36.4,62.9,12258,12258,0,3852,male
+25 to 34,334,2016-05-13,156,34.3,Oghor 2 SailsIsland,54 kg and under,Morning Ride,23.5,42.8,41.67,6385,6385,1,3484,male
+25 to 34,590,2018-09-20,384,24.7,North Corniche,85 to 95 kg,Evening Ride,19.8,44.3,39.27,7158,7158,1,5180,male
+25 to 34,595,2018-08-23,794,6.2,Headquarters Business Park,75 to 84 kg,رحلة جميله,18.3,38.5,72.4,14264,14264,0,7058,male
+19 and under,18,2019-10-23,18,27.2,Starbucks to Majid,65 to 74 kg,Evening Ride,25.5,43.9,51.64,7291,7291,0,17,male
+45 to 54,1022,2018-05-04,7,37.3,King Street side,75 to 84 kg,2018may04Solo ride,23.7,42.1,46.35,7049,7049,0,2519,male
+25 to 34,330,2017-09-19,186,26.0,Starbucks to Majid,54 kg and under,Evening Ride,22.5,74.2,54.39,8701,8701,0,339,male
+25 to 34,608,2019-12-17,1,40.3,Oghor 2 SailsIsland,54 kg and under,The worst weather ever in my life! face with steam from nose ,22.0,45.0,43.71,7148,7148,1,3946,female
+25 to 34,310,2018-11-14,233,25.3,Headquarters Business Park,65 to 74 kg,Evening Ride,22.3,46.1,52.63,8491,8491,1,6500,male
+25 to 34,189,2016-11-12,44,33.4,Starbucks to Majid,85 to 95 kg,Morning Ride,34.1,43.2,100.04,10550,10550,0,196,male
+35 to 44,2080,2019-08-05,137,26.4,Headquarters Business Park,65 to 74 kg,الله اكبر الله اكبر...,17.1,34.6,30.51,6429,6429,0,7265,male
+25 to 34,1431,2018-03-12,405,23.6,North Corniche,54 kg and under,Evening Ride,19.0,62.6,24.37,4615,4615,0,5200,male
+20 to 24,1702,2018-08-21,108,21.0,Headquarters Business Park,54 kg and under,Evening Ride,19.0,43.6,17.99,3409,3409,0,6159,male
+25 to 34,521,2016-01-18,381,18.6,Starbucks to Majid,65 to 74 kg,Evening Ride,16.8,42.8,21.13,4525,4525,0,532,male
+35 to 44,1220,2017-09-20,150,31.4,North Corniche,115 kg and over,Evening Ride,26.5,41.4,33.61,4574,4574,0,5505,male
+35 to 44,675,2018-12-10,23,43.2,Oghor 2 SailsIsland,75 to 84 kg,Evening Ride,31.9,54.7,41.2,4649,4649,1,3995,male
+25 to 34,311,2019-10-23,208,25.9,Headquarters Business Park,75 to 84 kg,Evening Ride,25.4,40.7,52.53,7440,7440,1,6475,male
+25 to 34,1144,2017-10-06,318,27.5,North Corniche,65 to 74 kg,Camel Obhur Ride (Morning Ride),22.0,64.4,78.1,12799,12799,0,5113,male
+25 to 34,78,2016-12-31,150,34.5,Oghor 2 SailsIsland,75 to 84 kg,Lunch Ride,19.2,48.2,23.8,4470,4470,0,3454,male
+45 to 54,963,2019-02-09,71,29.8,North Corniche,75 to 84 kg,Morning Ride,23.4,34.6,50.07,7707,7707,1,5820,male
+65 to 69,1047,2018-01-11,1,31.9,Headquarters Business Park,75 to 84 kg,Camel and Back +,29.0,38.2,57.19,7088,7088,0,7856,male
+25 to 34,1216,2019-11-21,295,6.9,King Street side,54 kg and under,تمرين كورنيش جدة,23.6,33.8,40.13,6123,6123,0,2276,male
+25 to 34,91,2019-09-20,163,27.1,Headquarters Business Park,75 to 84 kg,Morning Ride,26.2,46.8,73.99,10159,10159,0,6428,male
+19 and under,21,2019-01-18,4,36.9,PRINCE SULTAN - ASSALAM TO FATIMA,55 to 64 kg,Early morning ride,30.3,51.8,91.68,10901,10901,0,2629,male
+25 to 34,169,2017-03-10,34,36.1,Al Fardoos to shellfish round about,105 kg to 114 kg,Morning Ride,25.4,46.8,60.95,8632,8632,0,1739,male
+35 to 44,677,2014-10-01,132,33.8,Oghor 2 SailsIsland,85 to 95 kg,تمرين كورنيش جدة غير ، هواء وأتعبوني اللي يوقفوني للسؤال والتصوير خخخخ,28.2,50.4,36.18,4626,4626,0,4101,male
+35 to 44,664,2018-05-06,54,33.2,King Street side,75 to 84 kg,Afternoon Ride,26.0,37.8,53.78,7434,7434,0,2337,male
+35 to 44,743,2016-10-10,258,23.2,Headquarters Business Park,115 kg and over,Evening Ride,20.7,40.3,21.73,3788,3788,0,7387,male
+45 to 54,978,2016-12-23,56,24.8,Starbucks to Majid,85 to 95 kg,First 100km ride,30.6,40.3,100.67,11827,11827,1,1025,male
+20 to 24,78,2016-05-30,17,35.4,North Corniche,75 to 84 kg,Jed cyclist change your life,19.5,55.1,34.72,6420,6420,0,4695,male
+20 to 24,62,2013-12-25,54,24.9,Headquarters Business Park,75 to 84 kg,Evening Ride,25.1,40.7,29.2,4181,4181,0,6105,male
+25 to 34,1823,2017-12-27,341,23.1,Headquarters Business Park,54 kg and under,Evening Ride,18.9,59.0,20.76,3960,3960,0,6606,male
+45 to 54,1614,2020-02-22,2,21.5,Headquarters Business Park,55 to 64 kg,Corniche signs,15.9,30.2,31.16,7061,7061,0,7810,female
+25 to 34,239,2015-10-14,88,27.8,PRINCE SULTAN - ASSALAM TO FATIMA,105 kg to 114 kg,Evening Ride,20.8,40.3,32.13,5560,5560,0,2755,male
+25 to 34,412,2018-05-30,302,28.3,North Corniche,54 kg and under,Morning Ride,22.9,61.2,55.34,8683,8683,0,5097,male
+55 to 64,1037,2019-12-13,9,20.9,S.Ubhur Alkurnaysh South Bound with detour,85 to 95 kg,تمرين صباح الجمعه 2019/12/13,22.0,38.5,31.98,5245,5245,0,1421,male
+25 to 34,1469,2018-11-07,527,21.3,Oghor 2 SailsIsland,54 kg and under,Evening Ride,16.9,28.1,20.54,4380,4380,0,3856,male
+45 to 54,993,2019-01-13,30,27.9,Headquarters Business Park,75 to 84 kg,Evening Ride,20.1,33.1,23.13,4142,4142,1,7687,male
+25 to 34,1861,2019-12-08,486,20.5,Headquarters Business Park,55 to 64 kg,Good morning II desert island ,22.7,114.8,16.38,2600,2600,0,6753,male
+25 to 34,204,2019-08-16,8,45.7,North Corniche,54 kg and under,Morning Ride,27.0,53.3,56.49,7538,7538,0,4803,male
+35 to 44,1083,2019-02-22,115,25.0,PRINCE SULTAN - ASSALAM TO FATIMA,,Morning Ride,19.3,36.7,96.3,18000,18000,0,2948,male
+35 to 44,642,2018-11-03,60,32.4,King Street side,75 to 84 kg,Morning Ride,31.4,49.0,64.62,7412,7412,1,2344,male
+45 to 54,1028,2019-09-16,4,18.8,North Corniche,85 to 95 kg,30k Brave Cyclists 9,15.8,27.0,34.33,7842,7842,0,5897,female
+35 to 44,665,2018-12-11,24,35.9,S.Ubhur Alkurnaysh South Bound with detour,95 kg to 104 kg,الفائدة قبل الجائزة thumbs up: medium-light skin tone ,25.3,49.3,142.28,20236,20236,0,1287,male
+25 to 34,295,2016-01-06,371,25.0,North Corniche,75 to 84 kg,Evening Ride,24.9,79.6,35.39,5126,5126,0,5166,male
+25 to 34,478,2016-01-18,514,20.1,Headquarters Business Park,54 kg and under,Evening Ride,17.8,43.6,21.96,4437,4437,0,6778,male
+25 to 34,544,2018-11-10,161,27.9,King Street side,54 kg and under,Morning Ride,24.3,33.5,41.56,6162,6162,0,2142,male
+45 to 54,1024,2019-08-22,105,8.7,Starbucks to Majid,,Afternoon Ride,18.9,41.8,38.8,7406,7406,0,1074,male
+35 to 44,1324,2017-11-03,51,34.5,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,تمرين اعدادي للسباق,31.8,40.0,46.14,5218,5218,1,2884,male
+75+,1623,2018-04-08,4,19.8,Headquarters Business Park,65 to 74 kg,يوم الاحد ٢٢ رجب ١٤٣٩ مع عايض,17.5,44.6,44.69,9197,9197,0,7864,male
+25 to 34,327,2019-12-23,150,34.5,Oghor 2 SailsIsland,54 kg and under,Evening Ride,25.7,48.2,48.43,6796,6796,1,3458,male
+45 to 54,1019,2019-06-25,106,26.0,Oghor 2 SailsIsland,95 kg to 104 kg,تمرين مسائي ممتع اللهم لك الحمد حتى ترضى ,23.0,37.1,45.63,7148,7148,0,4520,male
+25 to 34,213,2019-12-20,99,35.9,North Corniche,54 kg and under,Morning Ride,28.7,49.0,64.91,8145,8145,1,4894,male
+35 to 44,283,2016-10-15,35,34.9,King Street side,85 to 95 kg,Morning Ride,27.2,47.5,51.33,6785,6785,0,2318,male
+25 to 34,498,2020-02-07,399,22.1,Headquarters Business Park,54 kg and under,Morning Ride,17.8,34.2,25.9,5240,5240,0,6666,male
+35 to 44,1081,2018-07-22,258,23.2,Headquarters Business Park,65 to 74 kg,Afternoon Ride,23.6,41.0,52.2,7975,7975,0,7388,male
+55 to 64,1621,2020-02-22,1,21.2,Headquarters Business Park,55 to 64 kg,Morning Ride,15.1,40.3,31.67,7575,7575,0,7854,female
+25 to 34,1831,2017-12-13,375,22.5,Headquarters Business Park,,Night Ride,21.4,29.9,22.36,3756,3756,0,6639,male
+25 to 34,1103,2019-10-11,204,32.6,Oghor 2 SailsIsland,,Morning Ride,31.5,40.3,83.29,9526,9526,0,3535,male
+25 to 34,1860,2020-02-05,474,20.7,Headquarters Business Park,54 kg and under,Night,19.2,44.3,15.71,2947,2947,0,6740,male
+35 to 44,234,2020-01-20,31,37.2,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Evening Ride,26.5,45.4,44.64,6055,6055,0,2865,male
+35 to 44,649,2016-02-15,79,35.3,North Corniche,85 to 95 kg,Morning Ride,24.4,55.4,41.19,6069,6069,0,5434,male
+25 to 34,1400,2016-10-10,90,36.3,North Corniche,54 kg and under,Evening Ride,21.2,48.2,33.88,5755,5755,0,4885,male
+35 to 44,1244,2017-07-28,188,20.4,King Street side,54 kg and under,Morning Ride,18.4,33.8,27.71,5411,5411,0,2471,male
+25 to 34,386,2014-08-04,489,22.9,Oghor 2 SailsIsland,54 kg and under,Night Ride,21.2,45.4,24.31,4131,4131,0,3817,male
+35 to 44,638,2019-09-26,12,43.0,North Corniche,115 kg and over,Afternoon Ride,25.6,52.2,34.24,4823,4823,1,5367,male
+25 to 34,394,2015-04-15,245,31.1,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,19.6,41.8,22.08,4048,4048,0,3574,male
+25 to 34,186,2017-07-14,15,40.5,Al Fardoos to shellfish round about,54 kg and under,Morning Ride,34.0,50.8,56.88,6030,6030,1,1720,male
+25 to 34,415,2019-01-23,274,23.4,Starbucks to Majid,85 to 95 kg,تمرين مسائي رائع .... ,21.8,44.3,52.68,8683,8683,0,425,male
+25 to 34,1480,2016-10-19,474,19.7,North Corniche,115 kg and over,Evening Ride,17.4,38.9,20.33,4204,4204,0,5269,male
+45 to 54,648,2018-01-19,84,22.0,Headquarters Business Park,65 to 74 kg,social Ride,25.8,40.7,50.14,7010,7010,0,7741,male
+19 and under,15,2018-12-19,7,40.7,North Corniche,85 to 95 kg,jeddah tri,34.7,55.1,36.96,3839,3839,0,4628,male
+35 to 44,683,2017-03-06,28,43.0,Oghor 2 SailsIsland,95 kg to 104 kg,Night Ride,27.0,53.6,27.22,3629,3629,0,3997,male
+19 and under,26,2018-10-19,23,26.4,King Street side,85 to 95 kg,19/10/2018,22.2,38.2,48.0,7788,7788,0,1912,male
+25 to 34,559,2017-02-20,726,15.4,Headquarters Business Park,54 kg and under,Evening Ride,16.7,38.2,20.16,4339,4339,0,6990,male
+25 to 34,496,2017-09-23,39,35.5,Al Fardoos to shellfish round about,55 to 64 kg,Morning Ride,29.5,52.6,77.77,9494,9494,0,1744,male
+45 to 54,1005,2018-09-06,107,23.5,North Corniche,65 to 74 kg,Morning Ride,24.4,35.6,74.71,11025,11025,0,5856,male
+25 to 34,581,2018-07-09,499,22.3,Oghor 2 SailsIsland,75 to 84 kg,Afternoon Ride,19.8,27.4,3.54,645,645,0,3827,male
+45 to 54,936,2019-02-12,7,39.9,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Morning Ride,30.7,49.3,32.08,3758,3758,1,2992,male
+35 to 44,858,2019-01-24,253,26.4,North Corniche,54 kg and under,Morning Ride,22.6,37.1,38.44,6119,6119,0,5608,male
+35 to 44,659,2017-07-28,70,32.1,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Morning Ride,27.5,40.7,41.38,5423,5423,1,2903,male
+20 to 24,1767,2019-10-22,15,5.3,Headquarters Business Park,54 kg and under,Afternoon Ride,5.6,14.8,4.91,3178,3178,0,6263,female
+25 to 34,1060,2019-12-21,582,18.9,Headquarters Business Park,65 to 74 kg,Morning Ride,27.5,48.6,52.49,6882,6882,1,6850,male
+25 to 34,78,2019-10-18,183,26.4,King Street side,75 to 84 kg,Afternoon Ride,23.4,37.8,41.4,6378,6378,0,2164,male
+45 to 54,652,2018-09-19,53,25.3,Starbucks to Majid,65 to 74 kg,Evening Ride,25.7,35.3,32.85,4610,4610,1,1022,male
+35 to 44,721,2020-03-27,23,36.4,King Street side,54 kg and under,مشوار صد و رد,25.2,158.4,71.73,10242,10242,0,2306,male
+25 to 34,1441,2017-10-05,368,25.3,North Corniche,85 to 95 kg,Afternoon Ride,20.5,54.7,22.64,3980,3980,0,5163,male
+45 to 54,1096,2019-11-22,32,28.7,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Morning Ride,25.2,33.1,49.19,7027,7027,1,1400,male
+25 to 34,1177,2020-03-20,80,29.3,PRINCE SULTAN - ASSALAM TO FATIMA,95 kg to 104 kg,Obhur and back weekend training ,19.5,63.7,80.24,14842,14842,0,2746,male
+25 to 34,187,2016-11-12,64,31.6,Headquarters Business Park,85 to 95 kg,Morning Ride,35.0,43.6,93.91,9653,9653,1,6329,male
+35 to 44,457,2017-06-04,350,22.9,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,19.3,32.0,18.55,3463,3463,0,4320,male
+35 to 44,1555,2020-01-10,354,22.8,Oghor 2 SailsIsland,65 to 74 kg,Morning Ride,22.5,29.2,35.52,5691,5691,0,4325,male
+35 to 44,898,2018-12-08,348,23.1,Oghor 2 SailsIsland,54 kg and under,Afternoon Ride,19.2,36.7,15.65,2939,2939,0,4317,male
+20 to 24,1728,2019-09-16,154,17.1,Headquarters Business Park,54 kg and under,Night Ride,17.5,33.8,12.58,2586,2586,0,6206,male
+35 to 44,676,2017-08-25,112,25.3,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Morning Ride,25.4,34.9,40.95,5804,5804,0,2945,male
+25 to 34,448,2017-03-29,503,20.3,Headquarters Business Park,54 kg and under,Evening Ride,21.1,40.7,20.01,3410,3410,0,6767,male
+45 to 54,1090,2020-01-03,17,35.2,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,2020 Friday Ride,27.1,74.5,85.03,11281,11281,0,1385,male
+25 to 34,579,2018-07-08,300,28.4,North Corniche,54 kg and under,Night Ride,22.1,38.9,32.35,5276,5276,0,5096,male
+45 to 54,931,2019-01-09,1,44.8,Starbucks to Majid,54 kg and under,Evening Ride,24.2,85.3,50.34,7481,7481,0,970,male
+25 to 34,436,2017-03-25,51,32.7,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Afternoon Ride,27.7,45.4,55.16,7175,7175,0,1193,male
+25 to 34,432,2016-05-18,403,26.2,Oghor 2 SailsIsland,54 kg and under,Night Ride,23.5,44.3,22.46,3446,3446,0,3731,male
+35 to 44,2185,2019-02-25,4,22.0,Headquarters Business Park,54 kg and under,Night Ride,15.7,42.1,7.78,1781,1781,0,7631,female
+20 to 24,129,2017-12-04,87,22.4,North Corniche,54 kg and under,Evening Ride,18.2,60.1,27.24,5392,5392,0,4765,male
+25 to 34,1977,2018-06-24,720,15.6,Headquarters Business Park,54 kg and under,Afternoon Ride,16.0,31.7,13.62,3069,3069,0,6984,male
+25 to 34,601,2019-01-19,499,17.3,North Corniche,54 kg and under,Second time bicycle man lifting weights: light skin tone ,17.2,38.9,14.34,3004,3004,0,5294,male
+20 to 24,99,2019-04-28,86,25.9,Oghor 2 SailsIsland,54 kg and under,Morning Ride,22.6,33.5,29.09,4640,4640,0,3221,male
+55 to 64,1044,2020-01-06,7,29.2,S.Ubhur Alkurnaysh South Bound with detour,75 to 84 kg,Evening Ride,28.2,50.8,53.07,6768,6768,1,1419,male
+35 to 44,858,2019-01-08,184,24.8,Headquarters Business Park,54 kg and under,Morning Ride,21.2,33.5,35.55,6034,6034,0,7313,male
+25 to 34,1050,2015-12-08,159,17.5,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Night Ride,17.6,56.5,130.54,26774,26774,0,2825,male
+25 to 34,537,2018-12-24,396,17.9,Starbucks to Majid,95 kg to 104 kg,Night Ride,22.1,44.6,26.05,4235,4235,1,548,male
+25 to 34,1799,2020-03-04,195,26.1,Headquarters Business Park,54 kg and under,Night Ride,20.1,35.6,24.74,4425,4425,0,6467,male
+19 and under,39,2018-11-11,35,27.6,North Corniche,115 kg and over,Evening Ride,19.7,37.8,28.39,5194,5194,0,4656,male
+45 to 54,1609,2019-09-22,130,17.7,North Corniche,115 kg and over,Evening Ride,14.7,33.1,26.19,6432,6432,1,5879,male
+35 to 44,889,2017-11-27,286,24.5,North Corniche,54 kg and under,Evening Ride,13.3,69.5,23.5,6371,6371,0,5641,male
+35 to 44,817,2017-12-07,137,32.0,North Corniche,95 kg to 104 kg,"تمسيكة "" الكورنيش الجديد"" - تمسيكة ٨",20.7,41.0,25.42,4412,4412,0,5493,male
+25 to 34,1546,2018-03-10,357,22.8,Headquarters Business Park,54 kg and under,Night Ride,23.6,41.4,18.73,2853,2853,0,6623,male
+35 to 44,918,2019-10-18,316,10.2,Starbucks to Majid,85 to 95 kg,Morning Ride,31.9,58.3,102.31,11547,11547,1,957,male
+25 to 34,1940,2019-02-01,657,17.4,Headquarters Business Park,54 kg and under,Night Ride,17.4,35.6,11.3,2338,2338,0,6922,male
+25 to 34,274,2019-11-27,128,29.5,King Street side,54 kg and under,Evening Ride,27.5,39.2,42.3,5543,5543,0,2111,male
+45 to 54,1597,2018-04-23,120,24.6,Oghor 2 SailsIsland,75 to 84 kg,Evening Ride,18.7,37.4,28.36,5463,5463,0,4534,male
+35 to 44,1140,2019-08-02,9,40.0,Al Fardoos to shellfish round about,65 to 74 kg,Morning Ride,30.4,51.8,70.05,8293,8293,0,1790,male
+35 to 44,793,2019-12-23,269,25.5,North Corniche,54 kg and under,Evening Ride 01,21.2,35.3,43.97,7468,7468,0,5624,male
+45 to 54,1022,2018-09-03,3,49.9,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Evening Ride,17.3,59.0,28.73,5985,5985,0,2987,male
+35 to 44,798,2019-10-20,71,30.7,King Street side,,Evening Ride,29.6,45.7,47.34,5759,5759,0,2354,male
+35 to 44,733,2020-01-15,67,31.2,King Street side,85 to 95 kg,Cyclist 170,25.2,45.7,48.79,6978,6978,0,2351,male
+25 to 34,414,2019-04-19,148,27.3,Headquarters Business Park,54 kg and under,بطولة أبطال الهواه ٢٠١٩1440/08/14,30.8,54.7,32.41,3793,3793,0,6417,male
+25 to 34,221,2019-04-05,77,30.5,Starbucks to Majid,75 to 84 kg,Afternoon Ride,30.3,51.5,26.55,3156,3156,1,228,male
+20 to 24,67,2019-02-08,20,29.0,Starbucks to Majid,54 kg and under,Morning Ride,27.5,35.3,49.99,6551,6551,0,69,male
+45 to 54,685,2019-02-13,4,39.7,King Street side,75 to 84 kg,Evening Ride,30.2,50.0,37.16,4430,4430,0,2516,male
+45 to 54,1029,2019-02-25,2,14.5,Starbucks to Majid,54 kg and under,Afternoon Ride,18.3,39.2,82.79,16317,16317,0,1079,female
+25 to 34,364,2019-03-04,222,25.0,Starbucks to Majid,85 to 95 kg,Evening Ride,28.6,47.5,52.14,6564,6564,1,373,male
+25 to 34,457,2016-08-14,317,22.0,Starbucks to Majid,85 to 95 kg,Evening Ride alone,20.8,41.8,22.8,3943,3943,0,468,male
+35 to 44,828,2019-11-06,267,27.3,Oghor 2 SailsIsland,54 kg and under,Evening Ride,20.3,37.8,23.44,4167,4167,0,4236,male
+20 to 24,51,2015-11-17,1,47.1,Starbucks to Majid,65 to 74 kg,Morning Ride (Rainy day) ,28.3,56.9,71.25,9055,9055,0,50,male
+35 to 44,821,2019-04-16,170,23.3,King Street side,75 to 84 kg,Afternoon Ride,21.5,40.7,102.15,17082,17082,0,2453,male
+35 to 44,667,2017-05-22,20,42.0,North Corniche,85 to 95 kg,Night Ride,31.9,51.8,40.81,4603,4603,1,5375,male
+19 and under,1678,2018-11-17,9,16.1,Headquarters Business Park,54 kg and under,Afternoon Ride,14.1,39.6,15.63,3990,3990,0,6045,female
+25 to 34,1818,2017-12-12,325,23.4,Headquarters Business Park,54 kg and under,Morning Ride,15.6,35.6,26.76,6168,6168,0,6590,male
+35 to 44,812,2015-06-21,138,33.5,Oghor 2 SailsIsland,75 to 84 kg,"06/21/2015 Jeddah, Makkah Province, Saudi Arabia",24.3,37.8,21.07,3120,3120,1,4108,male
+25 to 34,238,2014-11-03,154,27.2,Headquarters Business Park,65 to 74 kg,Mazin Azzahrani,22.2,44.6,22.64,3677,3677,0,6422,male
+35 to 44,669,2016-08-27,34,36.9,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Evening Ride,25.4,47.5,25.41,3607,3607,1,2868,male
+25 to 34,299,2016-11-07,276,29.0,North Corniche,55 to 64 kg,Evening Ride,24.9,42.8,20.45,2952,2952,0,5071,male
+35 to 44,925,2018-06-22,11,18.5,North Corniche,54 kg and under,Afternoon Ride,18.7,37.4,34.31,6619,6619,0,5749,female
+35 to 44,1085,2019-11-29,89,18.9,S.Ubhur Alkurnaysh South Bound with detour,54 kg and under,Morning Ride,25.7,41.8,70.03,9817,9817,0,1352,male
+25 to 34,193,2019-11-04,38,34.4,S.Ubhur Alkurnaysh South Bound with detour,75 to 84 kg,Evening Ride,28.1,56.9,47.66,6106,6106,1,1180,male
+35 to 44,2190,2018-07-11,15,18.3,Headquarters Business Park,54 kg and under,Afternoon Ride,17.9,36.7,15.0,3012,3012,0,7642,female
+20 to 24,87,2014-07-19,42,24.9,Starbucks to Majid,75 to 84 kg,Night Ride,21.5,59.8,60.37,10102,10102,0,91,male
+20 to 24,1163,2019-10-18,51,20.8,King Street side,54 kg and under,Morning Ride,19.3,31.0,30.74,5749,5749,0,1972,male
+35 to 44,725,2016-11-30,129,26.6,Headquarters Business Park,85 to 95 kg,Evening Ride,21.0,45.7,19.84,3404,3404,0,7256,male
+25 to 34,462,2020-01-20,156,34.3,Oghor 2 SailsIsland,54 kg and under,Evening Ride,25.2,43.6,22.52,3224,3224,0,3443,male
+35 to 44,1113,2017-06-05,175,22.7,King Street side,54 kg and under,Night Ride,21.8,37.8,55.97,9253,9253,0,2458,male
+20 to 24,94,2015-07-07,73,23.3,Headquarters Business Park,85 to 95 kg,Night Ride,23.3,37.4,24.91,3852,3852,0,6124,male
+35 to 44,762,2019-04-17,110,33.4,North Corniche,85 to 95 kg,Nice ride today. A bit windy but all good ,25.1,42.1,35.36,5075,5075,0,5465,male
+25 to 34,426,2019-03-04,286,23.1,Starbucks to Majid,54 kg and under,Evening Ride,23.5,36.0,45.7,7006,7006,0,437,male
+35 to 44,926,2017-11-04,9,22.6,Oghor 2 SailsIsland,75 to 84 kg,South Cornish,20.2,34.2,33.11,5914,5914,0,4410,female
+25 to 34,310,2018-05-23,102,37.2,Oghor 2 SailsIsland,65 to 74 kg,Night Ride,23.8,49.3,35.33,5339,5339,0,3383,male
+20 to 24,84,2018-04-18,38,30.5,North Corniche,105 kg to 114 kg,Sortie à vélo en soirée,24.2,41.0,49.57,7381,7381,0,4716,male
+35 to 44,1076,2018-12-30,52,27.8,S.Ubhur Alkurnaysh South Bound with detour,85 to 95 kg,Evening Ride,21.5,36.7,55.92,9376,9376,1,1315,male
+25 to 34,431,2019-12-30,202,31.3,North Corniche,75 to 84 kg,JEDDAH ride,24.7,43.9,49.23,7167,7167,0,4998,male
+25 to 34,173,2018-05-02,28,35.5,Starbucks to Majid,54 kg and under,تمرين,26.2,44.3,55.75,7670,7670,1,179,male
+35 to 44,668,2016-03-12,40,32.4,Starbucks to Majid,85 to 95 kg,Morning Ride,31.4,41.4,45.38,5196,5196,1,682,male
+35 to 44,1253,2020-01-03,373,11.1,North Corniche,,Morning Ride,15.2,32.4,46.97,11118,11118,0,5728,male
+45 to 54,963,2019-04-27,36,28.6,Starbucks to Majid,75 to 84 kg,Morning Ride,26.5,39.6,43.91,5968,5968,1,1005,male
+25 to 34,2028,2018-12-20,798,4.6,Headquarters Business Park,54 kg and under,Night Ride,10.4,49.0,9.56,3294,3294,0,7062,male
+20 to 24,100,2018-10-22,89,22.4,Headquarters Business Park,54 kg and under,Evening Ride,24.5,45.0,51.62,7600,7600,0,6141,male
+45 to 54,975,2019-11-08,50,26.0,Starbucks to Majid,75 to 84 kg,Afternoon Ride,24.3,37.1,62.09,9203,9203,0,1020,male
+35 to 44,326,2016-06-20,86,29.9,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Night Ride,20.6,52.9,38.74,6761,6761,0,2921,male
+35 to 44,1082,2018-01-26,147,33.2,Oghor 2 SailsIsland,85 to 95 kg,Morning Ride,23.0,43.2,36.73,5755,5755,0,4121,male
+45 to 54,968,2014-11-14,38,29.9,King Street side,65 to 74 kg,Morning Ride,26.0,37.1,47.68,6593,6593,0,2550,male
+25 to 34,1444,2017-11-11,439,24.8,Oghor 2 SailsIsland,54 kg and under,Nice Relaxed Ride next the Red Sea,16.6,34.9,41.34,8970,8970,0,3767,male
+25 to 34,1130,2018-12-19,40,41.5,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,33.5,51.5,40.9,4389,4389,0,3320,male
+25 to 34,580,2019-06-17,391,24.4,North Corniche,54 kg and under,Jeddah Time,16.7,33.5,56.94,12312,12312,0,5187,male
+35 to 44,899,2019-12-04,363,19.9,Headquarters Business Park,65 to 74 kg,Evening Ride,16.5,25.2,17.45,3801,3801,1,7490,male
+45 to 54,2213,2018-12-27,83,22.2,Headquarters Business Park,54 kg and under,Afternoon Ride,13.9,39.6,53.76,13900,13900,0,7740,male
+45 to 54,953,2019-12-12,25,29.1,Starbucks to Majid,95 kg to 104 kg,Afternoon Ride,27.1,33.5,32.18,4269,4269,0,994,male
+25 to 34,1841,2018-12-28,411,21.9,Headquarters Business Park,65 to 74 kg,تمرين على خط الكورنيش'' جدة'',21.2,31.0,37.85,6413,6413,1,6678,male
+19 and under,1650,2019-05-21,70,17.5,Headquarters Business Park,54 kg and under,Afternoon Ride,18.0,29.9,14.59,2924,2924,0,6008,male
+25 to 34,441,2017-07-10,331,23.3,Headquarters Business Park,54 kg and under,اول تمرين مع جده سايكل,22.2,46.4,23.48,3807,3807,0,6595,male
+20 to 24,1054,2019-11-26,2,28.1,S.Ubhur Alkurnaysh South Bound with detour,54 kg and under,Evening Activity,17.0,34.6,48.46,10249,10249,0,1142,female
+45 to 54,1000,2019-07-28,71,12.5,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Night Ride,19.1,33.1,27.83,5251,5251,1,3055,male
+25 to 34,519,2019-09-12,379,18.9,Starbucks to Majid,85 to 95 kg,Lama dah x kayuh,15.1,25.2,14.6,3479,3479,0,530,male
+45 to 54,955,2019-03-12,43,20.9,Obhur North Short,95 kg to 104 kg,Wonderful ride with wonderful friends victory hand: medium skin tone ,21.0,41.8,125.0,21460,21460,1,1665,male
+35 to 44,744,2019-12-21,50,31.0,Headquarters Business Park,65 to 74 kg,Morning Ride,28.8,38.5,30.01,3749,3749,0,7178,male
+35 to 44,676,2017-04-07,38,25.9,Obhur North Short,85 to 95 kg,Morning Ride,27.4,73.8,85.6,11259,11259,0,1578,male
+25 to 34,357,2019-01-26,32,30.5,Obhur North Short,55 to 64 kg,Along JED Corniche beach with umbrella ,26.9,49.7,100.45,13432,13432,1,1488,male
+45 to 54,1607,2017-09-01,133,16.2,North Corniche,54 kg and under,Night Ride,16.8,27.0,29.79,6368,6368,0,5882,male
+25 to 34,2021,2018-02-10,788,7.7,Headquarters Business Park,54 kg and under,Morning Ride,18.2,32.0,15.08,2981,2981,0,7052,male
+25 to 34,1059,2018-12-10,34,34.7,S.Ubhur Alkurnaysh South Bound with detour,75 to 84 kg,Evening Ride,31.4,46.8,45.23,5184,5184,0,1176,male
+19 and under,1352,2019-11-20,39,26.8,Oghor 2 SailsIsland,54 kg and under,Evening Ride,18.8,39.6,28.08,5372,5372,0,3114,male
+45 to 54,990,2019-05-04,115,25.1,Oghor 2 SailsIsland,,Morning Ride,15.8,38.9,50.18,11425,11425,0,4529,male
+35 to 44,1079,2018-12-14,156,24.6,King Street side,54 kg and under,Morning Ride,24.9,38.9,42.6,6162,6162,1,2439,male
+25 to 34,1481,2017-10-16,552,20.3,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,18.0,34.9,17.75,3551,3551,0,3880,male
+25 to 34,215,2015-04-22,71,30.7,Starbucks to Majid,65 to 74 kg,Night Ride,26.7,48.2,29.29,3950,3950,0,222,male
+25 to 34,540,2019-11-04,757,13.0,Headquarters Business Park,,الاثنين مع سلتان,14.2,54.7,14.64,3700,3700,0,7021,male
+35 to 44,417,2020-01-06,67,25.2,S.Ubhur Alkurnaysh South Bound with detour,105 kg to 114 kg,Evening Ride,28.2,39.6,28.18,3604,3604,1,1330,male
+25 to 34,1419,2018-02-14,339,28.4,Oghor 2 SailsIsland,54 kg and under,Evening Ride,18.5,40.3,13.89,2705,2705,0,3668,male
+25 to 34,364,2019-03-02,233,25.3,Headquarters Business Park,85 to 95 kg,Evening Ride,24.9,48.2,35.15,5084,5084,0,6501,male
+25 to 34,153,2019-03-04,348,28.0,Oghor 2 SailsIsland,54 kg and under,Evening Ride,16.8,49.3,19.11,4107,4107,0,3680,male
+25 to 34,317,2018-02-23,262,30.7,Oghor 2 SailsIsland,65 to 74 kg,Morning Ride,26.8,42.8,57.35,7715,7715,0,3590,male
+55 to 64,1037,2019-03-13,6,34.9,King Street side,85 to 95 kg,Evening Ride,27.6,39.6,32.42,4222,4222,0,2605,male
+45 to 54,937,2015-05-06,18,31.8,Headquarters Business Park,75 to 84 kg,Night Ride with Jeddah Cyclists,29.6,42.5,31.2,3797,3797,0,7675,male
+45 to 54,1007,2018-04-13,149,9.5,Headquarters Business Park,,Morning Ride,17.6,36.4,54.04,11064,11064,0,7806,male
+35 to 44,1518,2020-02-13,363,14.3,North Corniche,75 to 84 kg,Exploring chaotic Jeddah (by car),22.5,92.2,86.3,13779,13779,0,5718,male
+20 to 24,53,2019-02-01,11,12.5,Obhur North Short,75 to 84 kg,Morning Ride,29.4,46.1,115.85,14187,14187,0,1452,male
+45 to 54,1594,2018-03-12,98,26.9,Oghor 2 SailsIsland,54 kg and under,Evening Ride,18.9,43.6,23.28,4434,4434,0,4513,male
+19 and under,4,2017-12-11,5,40.9,King Street side,54 kg and under,Night Ride,36.7,46.8,49.32,4842,4842,0,1894,male
+25 to 34,166,2015-10-08,39,40.1,North Corniche,95 kg to 104 kg,Afternoon Ride,27.0,76.3,39.57,5286,5286,0,4834,male
+35 to 44,777,2019-04-05,55,20.4,Obhur North Short,115 kg and over,Morning Ride,29.7,47.9,93.86,11382,11382,0,1595,male
+35 to 44,2158,2020-03-04,443,16.4,Headquarters Business Park,,Evening Ride,17.9,30.2,12.93,2604,2604,0,7570,male
+19 and under,38,2019-07-10,38,17.9,Starbucks to Majid,55 to 64 kg,Jeddah Cycling 1,17.8,39.6,23.16,4679,4679,0,37,male
+35 to 44,821,2019-04-17,213,22.3,Starbucks to Majid,75 to 84 kg,Afternoon Ride,21.7,36.7,117.47,19490,19490,0,856,male
+35 to 44,1237,2019-06-12,338,20.3,North Corniche,,Evening Ride,20.5,99.7,50.43,8874,8874,0,5693,male
+25 to 34,561,2019-08-16,422,16.4,Starbucks to Majid,54 kg and under,Evening Ride,19.1,29.5,39.47,7429,7429,0,573,male
+25 to 34,338,2018-05-11,143,29.0,King Street side,54 kg and under,Afternoon Ride,24.1,37.1,77.27,11521,11521,0,2124,male
+25 to 34,1456,2019-04-10,428,22.4,North Corniche,54 kg and under,Jeddah cyclist ,17.5,44.3,24.27,4988,4988,0,5224,male
+25 to 34,171,2019-02-13,26,35.9,Starbucks to Majid,85 to 95 kg,التمرين مسافته 38 كم،، والباقي نسيت ما اقفل البرنامج,26.6,78.1,47.08,6370,6370,0,177,male
+35 to 44,2093,2019-08-08,193,24.6,Headquarters Business Park,54 kg and under,Finally grinning face with smiling eyes ,19.3,36.7,8.94,1664,1664,0,7322,male
+45 to 54,1025,2018-12-12,106,8.2,Starbucks to Majid,54 kg and under,Afternoon Ride,17.0,35.6,50.25,10638,10638,0,1075,male
+25 to 34,392,2019-07-24,216,24.1,King Street side,54 kg and under,Evening Ride,21.1,33.8,34.89,5945,5945,0,2199,male
+25 to 34,1174,2018-01-08,111,35.3,North Corniche,54 kg and under,Evening Ride,27.5,46.4,51.64,6761,6761,0,4907,male
+25 to 34,236,2014-12-29,204,32.6,Oghor 2 SailsIsland,54 kg and under,Evening Ride,22.6,46.8,27.22,4327,4327,0,3532,male
+25 to 34,1878,2019-02-07,519,20.1,Headquarters Business Park,75 to 84 kg,Evening Ride,12.7,42.8,19.73,5612,5612,1,6785,male
+45 to 54,961,2019-07-05,31,28.7,Starbucks to Majid,75 to 84 kg,Morning Ride,30.6,47.2,84.95,9994,9994,0,1002,male
+35 to 44,1522,2018-11-19,111,33.4,North Corniche,54 kg and under,Cycling,19.7,38.2,30.1,5506,5506,0,5466,male
+25 to 34,1405,2017-12-17,238,25.2,Headquarters Business Park,95 kg to 104 kg,Night Ride,20.5,42.1,19.17,3366,3366,0,6502,male
+19 and under,11,2017-12-01,20,26.9,Headquarters Business Park,54 kg and under,Morning Ride,23.0,43.9,53.5,8366,8366,0,5958,male
+35 to 44,833,2019-06-09,275,26.6,Oghor 2 SailsIsland,54 kg and under,Night Ride,17.8,31.7,17.26,3496,3496,1,4245,male
+25 to 34,525,2019-07-06,560,19.3,Headquarters Business Park,105 kg to 114 kg,Night Ride,18.7,28.8,29.98,5769,5769,0,6826,male
+35 to 44,736,2017-07-05,122,23.7,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Evening Ride,19.5,31.7,28.36,5226,5226,0,2955,male
+25 to 34,476,2019-07-25,336,21.2,Starbucks to Majid,54 kg and under,Sortie à vélo matinale,22.2,33.5,15.62,2539,2539,0,487,male
+25 to 34,167,2015-04-06,106,31.0,King Street side,85 to 95 kg,"04/06/2015 Jeddah, Makkah Province, Saudi Arabia",30.3,42.5,31.56,3744,3744,1,2087,male
+35 to 44,644,2019-05-20,72,29.4,Headquarters Business Park,85 to 95 kg,مجدولة ابطال مع الوحوش ابو سالم وعزوز ,21.5,43.6,32.83,5497,5497,0,7202,male
+45 to 54,932,2019-04-27,1,40.8,Headquarters Business Park,85 to 95 kg,Morning Ride,35.2,47.5,41.45,4242,4242,1,7658,male
+25 to 34,468,2017-07-10,336,23.2,Headquarters Business Park,75 to 84 kg,First HAK Ride,18.9,65.5,19.97,3798,3798,0,6601,male
+25 to 34,1055,2020-02-28,31,37.4,Al Fardoos to shellfish round about,55 to 64 kg,Morning Ride,29.6,49.0,50.92,6191,6191,1,1737,male
+55 to 64,1038,2019-07-04,8,36.8,Oghor 2 SailsIsland,54 kg and under,Night Ride,26.6,55.1,38.79,5255,5255,0,4587,male
+25 to 34,1102,2018-02-14,11,34.1,Obhur North Short,54 kg and under,Morning Ride,34.5,52.6,82.08,8573,8573,0,1467,male
+20 to 24,51,2015-12-08,5,32.5,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Lunch Ride,27.8,57.2,98.16,12710,12710,0,2647,male
+25 to 34,443,2014-05-12,533,19.7,Headquarters Business Park,54 kg and under,تمرين الاثنين مجموعة جدة,21.3,42.8,31.67,5344,5344,0,6797,male
+35 to 44,452,2018-09-08,43,40.3,Oghor 2 SailsIsland,75 to 84 kg,Afternoon Ride,23.6,54.4,54.0,8226,8226,0,4012,male
+45 to 54,758,2015-04-18,79,28.7,North Corniche,105 kg to 114 kg,Morning Ride,21.2,39.6,25.54,4337,4337,0,5828,male
+20 to 24,1392,2019-11-07,132,14.5,Oghor 2 SailsIsland,54 kg and under,Night Ride,13.6,34.9,34.5,9141,9141,0,3268,male
+19 and under,1648,2018-05-14,65,18.3,Headquarters Business Park,75 to 84 kg,Night Ride,20.5,37.4,10.44,1833,1833,0,6003,male
+25 to 34,287,2018-08-12,264,29.3,North Corniche,65 to 74 kg,Evening Ride,26.3,52.6,52.91,7237,7237,0,5059,male
+35 to 44,234,2020-02-14,76,8.2,Obhur North Short,65 to 74 kg,Morning Ride,14.5,41.0,88.49,21998,21998,0,1616,male
+35 to 44,653,2019-12-29,15,42.4,North Corniche,65 to 74 kg,Afternoon kite ,31.6,50.0,30.23,3443,3443,1,5371,male
+45 to 54,980,2013-11-02,138,13.6,North Corniche,85 to 95 kg,Morning Ride,21.0,57.2,52.47,9005,9005,0,5887,male
+25 to 34,1429,2019-01-30,324,27.2,North Corniche,105 kg to 114 kg,Evening Ride,18.9,36.4,28.36,5406,5406,0,5120,male
+20 to 24,113,2019-02-15,9,19.6,Obhur North Short,54 kg and under,Afternoon Ride,20.7,42.1,104.85,18278,18278,0,1450,male
+45 to 54,955,2019-05-22,26,29.0,Starbucks to Majid,95 kg to 104 kg,A Night Ride w/J-Cyclists crescent moon ,27.5,43.6,50.7,6641,6641,1,996,male
+45 to 54,1008,2019-12-23,32,36.1,North Corniche,54 kg and under,Evening Ride,20.2,40.7,21.75,3875,3875,1,5783,male
+35 to 44,238,2018-03-05,144,25.6,Starbucks to Majid,65 to 74 kg,Evening Ride,24.4,49.3,54.81,8084,8084,0,786,male
+25 to 34,608,2019-12-17,1,39.1,North Corniche,54 kg and under,The worst weather ever in my life! face with steam from nose ,22.0,45.0,43.71,7148,7148,1,5335,female
+25 to 34,489,2017-01-02,225,31.9,Oghor 2 SailsIsland,115 kg and over,Evening Ride,22.5,36.0,22.18,3545,3545,0,3554,male
+35 to 44,796,2019-04-27,186,23.8,Starbucks to Majid,95 kg to 104 kg,Morning Ride,21.9,29.9,24.93,4091,4091,1,828,male
+45 to 54,2208,2017-12-27,68,23.6,Headquarters Business Park,75 to 84 kg,Evening Ride,17.0,33.5,25.04,5290,5290,0,7725,male
+35 to 44,748,2019-01-14,135,32.1,North Corniche,54 kg and under,Evening Ride,22.6,41.4,43.65,6959,6959,0,5491,male
+45 to 54,982,2019-08-28,65,24.7,King Street side,85 to 95 kg,Evening Ride,17.1,36.4,47.46,9977,9977,0,2577,male
+25 to 34,258,2018-03-26,245,31.1,Oghor 2 SailsIsland,75 to 84 kg,Fahrt am Nachmittag,28.4,45.4,54.91,6950,6950,0,3578,male
+20 to 24,54,2019-01-01,7,33.3,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,"Last 100 Km in Jeddah, and first exercise in 2019 man biking: light skin tone fire ",30.9,49.7,104.59,12195,12195,0,1128,male
+35 to 44,796,2019-10-01,171,25.4,Headquarters Business Park,95 kg to 104 kg,Evening Ride,16.0,31.7,19.35,4368,4368,1,7299,male
+25 to 34,379,2015-06-21,241,30.1,North Corniche,75 to 84 kg,Night Ride,24.0,46.8,26.98,4045,4045,0,5037,male
+35 to 44,1532,2018-10-22,245,28.6,Oghor 2 SailsIsland,55 to 64 kg,Evening Ride,20.9,35.3,29.39,5073,5073,1,4216,male
+25 to 34,1826,2019-05-24,347,23.0,Headquarters Business Park,54 kg and under,Evening Ride,14.8,35.6,13.31,3237,3237,0,6615,male
+35 to 44,1862,2018-02-02,425,17.1,Headquarters Business Park,54 kg and under,Morning Ride,14.6,25.9,12.46,3078,3078,0,7551,male
+45 to 54,1098,2020-01-03,71,30.8,Oghor 2 SailsIsland,54 kg and under,Night Ride,21.9,41.4,37.88,6236,6236,0,4486,male
+35 to 44,841,2017-07-11,235,21.5,Starbucks to Majid,85 to 95 kg,Night Ride,21.5,45.0,52.06,8737,8737,0,877,male
+25 to 34,1310,2018-06-22,289,29.8,Oghor 2 SailsIsland,75 to 84 kg,Night Ride,22.1,37.4,47.29,7708,7708,0,3620,male
+20 to 24,92,2019-12-23,47,23.9,Starbucks to Majid,75 to 84 kg,رايد مع وحوش جده Jeddah cyclists ,24.6,38.5,48.11,7049,7049,0,96,male
+35 to 44,775,2020-01-08,12,40.2,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Afternoon Ride,30.5,54.4,41.84,4933,4933,1,2845,male
+25 to 34,266,2019-05-22,137,29.2,King Street side,75 to 84 kg,Night Ride,26.4,42.5,51.24,6988,6988,0,2118,male
+25 to 34,201,2016-01-22,57,32.0,Starbucks to Majid,85 to 95 kg,Karga sa tago :D huhuhu ,26.4,61.6,132.23,18000,18000,0,208,male
+35 to 44,373,2019-11-22,78,7.8,Obhur North Short,54 kg and under,Afternoon Ride,23.8,55.8,111.88,16923,16923,0,1618,male
+25 to 34,1782,2018-06-19,96,29.4,Headquarters Business Park,115 kg and over,Morning Ride,25.1,41.0,36.78,5283,5283,0,6361,male
+35 to 44,693,2014-03-29,69,29.3,Starbucks to Majid,75 to 84 kg,Morning Ride,27.1,40.7,30.27,4023,4023,0,711,male
+45 to 54,1022,2019-03-01,24,34.8,Al Fardoos to shellfish round about,75 to 84 kg,Morning Ride,21.2,46.1,67.56,11491,11491,1,1864,male
+25 to 34,403,2019-12-30,156,34.3,Oghor 2 SailsIsland,54 kg and under,jeddah cyclist,22.8,42.1,48.69,7674,7674,0,3491,male
+20 to 24,1762,2019-04-26,9,16.0,Headquarters Business Park,54 kg and under,Morning ride bicycle ,20.7,64.4,9.32,1621,1621,0,6258,female
+35 to 44,900,2017-05-01,406,17.5,Oghor 2 SailsIsland,54 kg and under,Evening Ride,15.9,34.2,18.14,4108,4108,0,4375,male
+25 to 34,276,2020-03-04,102,31.5,King Street side,65 to 74 kg,تمرين الأربعاء قروب ٣٠ بقيادة كابتن الشهر نايف مقاطي,28.2,49.7,54.88,6995,6995,0,2083,male
+35 to 44,1234,2018-09-04,171,25.4,Headquarters Business Park,85 to 95 kg,Afternoon Ride,18.9,32.4,23.09,4392,4392,0,7298,male
+45 to 54,1009,2020-03-06,110,23.0,North Corniche,75 to 84 kg,Morning Ride,20.5,41.0,50.81,8932,8932,0,5860,male
+35 to 44,268,2019-03-09,19,31.0,Obhur North Short,65 to 74 kg,Morning Ride,30.8,54.4,100.06,11683,11683,0,1559,male
+35 to 44,694,2017-03-11,40,35.8,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Morning Ride,20.8,44.3,22.76,3939,3939,1,2874,male
+25 to 34,268,2018-04-04,115,28.5,Headquarters Business Park,65 to 74 kg,Evening Ride,28.9,46.4,50.27,6269,6269,0,6379,male
+25 to 34,323,2018-01-03,371,22.6,Headquarters Business Park,75 to 84 kg,احلى تمرين مع دراج جدة two hearts person biking: light skin tone ,25.4,40.3,45.37,6427,6427,0,6636,male
+25 to 34,193,2019-06-28,3,52.5,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Speeder jc 80km,26.7,69.5,80.02,10786,10786,0,2669,male
+19 and under,6,2018-04-14,10,14.5,Obhur North Short,54 kg and under,Morning Ride,29.6,48.6,48.68,5916,5916,0,1438,male
+35 to 44,767,2014-03-03,111,34.8,Oghor 2 SailsIsland,85 to 95 kg,حضور سباق مدارس الأنجال,18.8,42.5,25.81,4940,4940,0,4081,male
+25 to 34,251,2017-04-24,94,36.1,North Corniche,115 kg and over,Afternoon Ride,21.1,42.1,38.94,6644,6644,0,4890,male
+35 to 44,802,2019-11-15,327,24.2,Oghor 2 SailsIsland,,Evening Ride,20.7,38.2,17.63,3065,3065,0,4296,male
+25 to 34,290,2016-06-13,150,34.5,Oghor 2 SailsIsland,54 kg and under,Night Ride,22.2,48.2,22.99,3730,3730,0,3428,male
+45 to 54,1095,2019-06-07,42,34.8,Oghor 2 SailsIsland,85 to 95 kg,Demolition Friday 50k Ride,28.2,38.5,48.53,6193,6193,0,4456,male
+45 to 54,1591,2018-04-18,76,29.2,North Corniche,54 kg and under,Evening Ride,21.1,35.3,20.53,3503,3503,0,5826,male
+25 to 34,224,2018-08-27,79,30.4,Starbucks to Majid,75 to 84 kg,Evening Activity,32.2,47.9,53.47,5984,5984,1,231,male
+25 to 34,1964,2018-03-26,698,16.5,Headquarters Business Park,,Evening Ride,10.0,39.2,14.37,5170,5170,0,6962,male
+45 to 54,1592,2018-05-23,93,27.6,Oghor 2 SailsIsland,54 kg and under,Night Ride,18.9,48.6,21.17,4024,4024,0,4508,male
+35 to 44,1241,2018-11-02,255,26.2,North Corniche,54 kg and under,Morning Ride,22.1,33.8,24.28,3957,3957,0,5610,male
+25 to 34,527,2016-09-09,466,20.0,North Corniche,65 to 74 kg,Morning Ride,18.2,40.3,22.08,4375,4375,0,5261,male
+25 to 34,171,2019-04-21,67,37.7,North Corniche,85 to 95 kg,Evening Ride,24.1,45.0,48.62,7269,7269,0,4866,male
+35 to 44,894,2018-04-21,291,16.7,Starbucks to Majid,95 kg to 104 kg,Afternoon Ride,18.0,27.4,23.18,4635,4635,1,932,male
+25 to 34,364,2019-03-04,85,36.5,North Corniche,85 to 95 kg,Evening Ride,28.6,47.5,52.14,6564,6564,1,4881,male
+35 to 44,234,2019-12-16,74,23.4,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Evening Ride,27.4,49.7,54.23,7138,7138,0,1339,male
+35 to 44,856,2015-02-18,220,29.5,Oghor 2 SailsIsland,65 to 74 kg,Night Ridefff,24.2,37.1,11.62,1731,1731,0,4189,male
+20 to 24,107,2018-08-03,103,23.3,Oghor 2 SailsIsland,65 to 74 kg,Morning ride ,22.3,48.6,61.04,9855,9855,0,3238,male
+35 to 44,416,2019-11-22,222,21.9,Starbucks to Majid,75 to 84 kg,Morning Ride,21.9,115.6,87.51,14394,14394,0,866,male
+35 to 44,815,2019-01-18,328,21.3,Headquarters Business Park,75 to 84 kg,100 km challenge تحدي ال ١٠٠ كيلومتر,23.6,51.5,100.45,15345,15345,0,7458,male
+25 to 34,327,2020-02-21,149,28.8,King Street side,54 kg and under,Morning Ride,27.8,50.8,47.14,6105,6105,0,2131,male
+19 and under,1667,2018-01-10,91,12.3,Headquarters Business Park,54 kg and under,Evening Ride,14.7,32.8,6.78,1657,1657,0,6029,male
+25 to 34,395,2017-08-30,56,33.5,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Evening Ride,20.5,36.4,32.23,5649,5649,1,2722,male
+25 to 34,157,2019-06-30,9,35.5,Obhur North Short,95 kg to 104 kg,Evening Ride,33.6,51.5,40.01,4293,4293,0,1465,male
+25 to 34,305,2017-12-20,107,31.0,King Street side,55 to 64 kg,Evening Ride,24.7,36.7,47.68,6948,6948,0,2088,male
+25 to 34,1482,2018-09-18,414,23.0,North Corniche,,Night Ride,21.3,30.2,9.61,1629,1629,0,5209,male
+45 to 54,648,2018-01-19,74,21.8,Starbucks to Majid,65 to 74 kg,social Ride,25.8,40.7,50.14,7010,7010,0,1044,male
+20 to 24,3,2020-02-22,24,28.0,Starbucks to Majid,65 to 74 kg,Morning Ride تمرين رائع winking face flexed biceps person biking ,28.2,46.4,61.45,7858,7858,1,73,male
+35 to 44,775,2019-01-16,87,35.9,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,19.7,38.9,22.07,4038,4038,1,4059,male
+25 to 34,520,2015-03-09,605,18.5,Headquarters Business Park,75 to 84 kg,دحمي+ ايمن قروب دراجات,18.6,40.3,21.44,4161,4161,0,6870,male
+20 to 24,57,2016-12-21,27,28.7,Headquarters Business Park,65 to 74 kg,Evening Ride,27.9,61.2,34.89,4499,4499,0,6079,male
+25 to 34,1132,2019-09-27,16,40.5,Al Fardoos to shellfish round about,54 kg and under,Morning Ride,30.9,75.6,76.29,8887,8887,0,1721,male
+35 to 44,809,2015-02-28,200,23.0,Starbucks to Majid,105 kg to 114 kg,Morning Ride,21.4,98.6,50.04,8403,8403,0,842,male
+55 to 64,1619,2017-11-11,28,21.0,Oghor 2 SailsIsland,,Afternoon Ride,16.3,82.4,42.03,9310,9310,0,4607,male
+25 to 34,1130,2018-12-19,20,41.9,North Corniche,65 to 74 kg,Evening Ride,33.5,51.5,40.9,4389,4389,0,4816,male
+25 to 34,1797,2018-05-07,179,26.6,Headquarters Business Park,65 to 74 kg,Night Ride,20.6,46.8,16.73,2922,2922,0,6443,male
+25 to 34,396,2017-05-03,249,29.8,North Corniche,75 to 84 kg,30-35 speed ,24.1,41.0,30.52,4562,4562,0,5044,male
+35 to 44,769,2020-02-17,158,25.1,Starbucks to Majid,95 kg to 104 kg,Evening Ride,21.6,41.4,37.52,6257,6257,1,800,male
+25 to 34,582,2018-04-03,541,20.8,Oghor 2 SailsIsland,54 kg and under,Night Ride,17.0,34.9,13.84,2939,2939,0,3870,male
+35 to 44,691,2014-10-15,97,27.9,Headquarters Business Park,75 to 84 kg,Evening Ride غير حياتك,23.2,45.4,27.82,4325,4325,0,7226,male
+25 to 34,525,2019-06-27,117,7.8,S.Ubhur Alkurnaysh South Bound with detour,105 kg to 114 kg,Night Ride,18.1,35.3,67.08,13330,13330,0,1259,male
+20 to 24,143,2019-03-21,135,18.6,Headquarters Business Park,54 kg and under,Night Ride,18.6,33.8,16.85,3256,3256,0,6187,male
+20 to 24,1365,2018-11-25,138,18.4,Headquarters Business Park,54 kg and under,Night Ride,17.1,32.8,9.41,1979,1979,0,6189,male
+25 to 34,172,2016-12-24,106,29.0,Headquarters Business Park,75 to 84 kg,Evening Ride,31.1,47.5,19.03,2201,2201,0,6370,male
+35 to 44,2117,2017-12-22,294,22.2,Headquarters Business Park,105 kg to 114 kg,Morning Ride,20.3,25.2,34.68,6136,6136,1,7422,male
+25 to 34,1176,2020-03-11,124,29.6,King Street side,54 kg and under,Evening Ride,27.3,50.0,53.65,7086,7086,0,2107,male
+25 to 34,1915,2018-01-17,605,18.5,Headquarters Business Park,54 kg and under,Night Ride,16.6,33.8,38.6,8381,8381,0,6869,male
+19 and under,5,2015-02-02,29,30.4,Oghor 2 SailsIsland,54 kg and under,Monday Speeders Ride,25.3,45.4,52.05,7396,7396,0,3105,male
+20 to 24,60,2015-05-06,12,31.2,Starbucks to Majid,85 to 95 kg,Evening Ride,24.1,42.5,91.59,13707,13707,0,61,male
+25 to 34,312,2019-10-09,315,23.7,Headquarters Business Park,54 kg and under,Evening Ride,24.8,44.6,22.67,3296,3296,0,6580,male
+25 to 34,427,2017-04-10,477,20.6,Headquarters Business Park,75 to 84 kg,Evening Ride,17.3,36.4,22.73,4717,4717,0,6743,male
+45 to 54,1015,2018-09-18,123,17.3,Headquarters Business Park,,Afternoon Ride,19.3,32.4,19.54,3642,3642,0,7780,male
+25 to 34,198,2018-12-12,59,39.9,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,33.8,49.3,26.01,2770,2770,0,3337,male
+35 to 44,810,2016-04-06,318,22.1,North Corniche,95 kg to 104 kg,Night Ride,17.5,31.3,7.64,1574,1574,0,5673,male
+25 to 34,465,2018-01-25,325,21.7,Starbucks to Majid,105 kg to 114 kg,Morning Ride,21.5,36.4,22.07,3693,3693,1,476,male
+45 to 54,947,2020-02-10,17,37.0,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,الاثنين ١٠ فبراير ٢٠٢٠,27.1,54.7,54.58,7241,7241,0,3001,male
+55 to 64,940,2017-12-01,5,38.0,Oghor 2 SailsIsland,55 to 64 kg,Morning Ride,27.7,49.3,80.41,10446,10446,1,4584,male
+25 to 34,205,2016-12-07,230,31.6,Oghor 2 SailsIsland,115 kg and over,Evening Ride,27.0,45.4,25.03,3339,3339,0,3558,male
+45 to 54,1149,2019-10-12,42,28.9,PRINCE SULTAN - ASSALAM TO FATIMA,,Afternoon Ride,13.5,36.7,92.36,24547,24547,0,3026,male
+25 to 34,315,2019-06-16,172,26.5,Starbucks to Majid,54 kg and under,Afternoon Ride,21.6,70.9,29.16,4858,4858,0,324,male
+35 to 44,802,2019-11-08,119,26.9,King Street side,,Afternoon Ride,23.9,37.8,43.47,6553,6553,0,2402,male
+25 to 34,1942,2018-08-29,660,17.3,Headquarters Business Park,54 kg and under,Night Ride,26.9,73.8,29.14,3898,3898,0,6926,male
+19 and under,4,2017-12-26,4,41.3,North Corniche,54 kg and under,Lunch Ride,26.8,51.5,99.21,13306,13306,0,4625,male
+35 to 44,777,2018-01-14,84,36.0,Oghor 2 SailsIsland,115 kg and over,Afternoon Ride,28.4,42.8,33.21,4213,4213,1,4053,male
+45 to 54,686,2019-07-15,72,22.5,Starbucks to Majid,75 to 84 kg,Evening Ride,19.1,34.6,22.49,4248,4248,0,1042,male
+35 to 44,2105,2019-06-22,241,23.5,Headquarters Business Park,54 kg and under,Morning Ride,21.5,32.4,17.61,2950,2950,0,7372,male
+35 to 44,813,2018-02-26,215,13.8,King Street side,85 to 95 kg,Afternoon Ride,20.5,32.0,34.49,6072,6072,0,2498,male
+25 to 34,454,2018-12-15,313,22.2,Starbucks to Majid,65 to 74 kg,Night Ride,21.9,43.2,31.86,5243,5243,1,465,male
+25 to 34,574,2019-01-23,686,16.7,Headquarters Business Park,65 to 74 kg,Night Ride,16.9,37.8,19.23,4095,4095,0,6950,male
+25 to 34,1855,2018-11-16,451,21.1,Headquarters Business Park,,Night Ride,15.1,36.0,30.38,7225,7225,0,6715,male
+35 to 44,694,2017-08-30,42,40.5,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,17.7,47.5,16.92,3450,3450,1,4011,male
+20 to 24,1152,2017-07-31,13,34.7,King Street side,85 to 95 kg,تمرين ليلي مع جده سايكلست smiling face with sunglasses fire OK hand ,27.4,44.6,43.95,5780,5780,0,1934,male
+35 to 44,373,2019-11-25,50,39.0,Oghor 2 SailsIsland,54 kg and under,Evening Ride,25.2,45.7,52.14,7462,7462,0,4024,male
+25 to 34,384,2014-10-20,208,25.9,Headquarters Business Park,75 to 84 kg,بعد الانقطاع,20.4,32.0,23.51,4156,4156,0,6473,male
+20 to 24,102,2017-08-09,56,22.9,Starbucks to Majid,54 kg and under,Evening Ride,22.7,59.8,29.4,4667,4667,0,106,male
+25 to 34,1516,2017-10-28,23,12.4,Oghor 2 SailsIsland,54 kg and under,Morning Ride,12.9,19.8,3.56,997,997,0,3968,female
+19 and under,45,2015-01-16,27,13.3,King Street side,75 to 84 kg,Afternoon Ride,15.2,34.6,58.24,13814,13814,0,1916,male
+20 to 24,1742,2018-12-26,176,14.7,Headquarters Business Park,54 kg and under,Night Ride,15.5,40.7,29.9,6929,6929,0,6227,male
+25 to 34,481,2018-11-19,286,24.1,Headquarters Business Park,54 kg and under,Evening Run,21.6,33.8,6.76,1126,1126,0,6557,male
+25 to 34,1781,2019-01-05,92,29.7,Headquarters Business Park,54 kg and under,سبت الدراسه,20.9,43.9,21.37,3682,3682,0,6356,male
+25 to 34,383,2018-02-11,240,24.5,Starbucks to Majid,115 kg and over,With Adele and Hassan,8.0,37.4,29.31,13131,13131,0,393,male
+20 to 24,120,2018-08-24,45,22.4,King Street side,54 kg and under,Afternoon Ride,23.2,39.2,59.56,9257,9257,0,1966,male
+25 to 34,1179,2019-04-15,286,24.1,Headquarters Business Park,75 to 84 kg,Night Ride,22.0,40.3,23.17,3791,3791,0,6559,male
+19 and under,41,2018-06-17,40,25.4,North Corniche,75 to 84 kg,تمشية بعد انقطاع,23.1,48.6,56.16,8762,8762,0,4661,male
+35 to 44,1539,2013-07-04,282,26.2,Oghor 2 SailsIsland,65 to 74 kg,جولة في مدينة جده ... مع العديد من الوقفات,15.4,45.7,60.57,14162,14162,0,4252,male
+55 to 64,1036,2018-10-26,4,34.5,Headquarters Business Park,75 to 84 kg,Morning Ride,26.7,38.5,59.15,7963,7963,1,7827,male
+35 to 44,1320,2020-01-06,3,63.1,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Evening Ride,33.7,72.4,12.65,1352,1352,1,2836,male
+20 to 24,1723,2019-01-12,148,17.7,Headquarters Business Park,54 kg and under,Evening Ride,18.0,82.1,15.54,3117,3117,0,6199,male
+35 to 44,1072,2020-02-01,13,40.1,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Morning Ride,35.3,45.7,39.45,4027,4027,1,2847,male
+25 to 34,151,2019-11-30,6,49.2,Starbucks to Majid,75 to 84 kg,Evening Ride,19.9,94.7,25.28,4576,4576,0,157,male
+25 to 34,461,2019-01-02,123,34.6,North Corniche,55 to 64 kg,Night Ride,22.7,50.8,25.46,4031,4031,1,4918,male
+25 to 34,462,2020-01-20,322,21.8,Starbucks to Majid,54 kg and under,Evening Ride,25.2,43.6,22.52,3224,3224,0,473,male
+45 to 54,986,2018-09-20,65,23.7,Starbucks to Majid,65 to 74 kg,Night Ride,23.7,36.4,27.65,4205,4205,0,1034,male
+25 to 34,157,2019-03-01,6,46.9,North Corniche,95 kg to 104 kg,Morning Ride,30.2,53.3,86.02,10240,10240,1,4801,male
+35 to 44,1238,2018-03-05,278,24.8,North Corniche,105 kg to 114 kg,دراج جده,19.2,40.3,29.64,5568,5568,0,5634,male
+35 to 44,691,2015-11-16,50,33.6,King Street side,75 to 84 kg,تمرين الاثنين ,20.7,40.7,36.7,6398,6398,0,2333,male
+35 to 44,889,2017-11-27,310,25.0,Oghor 2 SailsIsland,54 kg and under,Evening Ride,13.3,69.5,23.5,6371,6371,0,4280,male
+25 to 34,547,2016-08-29,376,24.9,North Corniche,105 kg to 114 kg,Night Ride,18.9,46.1,20.82,3972,3972,0,5171,male
+35 to 44,815,2019-01-18,268,25.6,North Corniche,75 to 84 kg,100 km challenge تحدي ال ١٠٠ كيلومتر,23.6,51.5,100.45,15345,15345,0,5623,male
+35 to 44,649,2016-02-15,111,34.8,Oghor 2 SailsIsland,85 to 95 kg,Morning Ride,24.4,55.4,41.19,6069,6069,0,4080,male
+35 to 44,1111,2018-02-06,64,37.8,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,30.3,46.1,50.03,5941,5941,1,4034,male
+25 to 34,1180,2019-03-18,363,22.7,Headquarters Business Park,75 to 84 kg,Night Ride,18.1,37.8,17.11,3407,3407,0,6633,male
+35 to 44,870,2019-02-06,359,20.1,Headquarters Business Park,54 kg and under,Night Ride,14.3,38.9,30.79,7770,7770,0,7487,male
+25 to 34,1800,2018-09-24,212,25.8,Headquarters Business Park,54 kg and under,Evening Ride,21.7,33.5,22.33,3712,3712,1,6478,male
+45 to 54,1091,2019-12-20,63,23.1,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Morning Ride,23.9,50.4,70.7,10645,10645,0,3047,male
+25 to 34,1455,2019-01-01,724,15.5,Headquarters Business Park,54 kg and under,Night Ride,17.8,34.2,20.26,4103,4103,0,6988,male
+25 to 34,342,2017-08-28,242,31.2,Oghor 2 SailsIsland,54 kg and under,تمرين الاثنين,24.0,45.7,27.62,4141,4141,0,3570,male
+25 to 34,162,2015-12-28,17,39.2,Starbucks to Majid,75 to 84 kg,Night Ride,24.6,43.9,43.12,6313,6313,0,168,male
+45 to 54,1006,2018-02-02,87,19.2,Starbucks to Majid,65 to 74 kg,Morning Ride,19.4,32.0,46.78,8690,8690,0,1056,male
+25 to 34,549,2018-06-25,410,17.3,Starbucks to Majid,105 kg to 114 kg,Night Ride,18.8,30.6,26.7,5127,5127,0,561,male
+25 to 34,325,2019-03-18,181,26.2,Starbucks to Majid,65 to 74 kg,تمرين 45 كيلو,25.7,38.2,46.51,6521,6521,0,334,male
+45 to 54,970,2019-01-26,5,35.9,Headquarters Business Park,54 kg and under,سباق تحدي جدة ٢٦-١-٢٠١٩,34.3,56.5,21.08,2215,2215,0,7662,male
+55 to 64,1037,2019-11-11,9,36.2,Oghor 2 SailsIsland,85 to 95 kg,تمرين الاثنين 2019/11/11,25.9,41.4,47.81,6647,6647,0,4588,male
+25 to 34,231,2017-09-22,60,29.1,Al Fardoos to shellfish round about,65 to 74 kg,تمرين مع بيت الدراج,27.2,51.1,76.25,10075,10075,0,1765,male
+20 to 24,84,2018-04-18,38,25.4,Starbucks to Majid,105 kg to 114 kg,Sortie à vélo en soirée,24.2,41.0,49.57,7381,7381,0,88,male
+25 to 34,280,2015-03-09,212,25.8,Headquarters Business Park,85 to 95 kg,Night Ride,22.4,41.8,27.56,4438,4438,0,6477,male
+25 to 34,302,2016-11-07,279,30.0,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,19.8,58.7,31.06,5656,5656,0,3608,male
+55 to 64,1037,2019-11-11,8,35.6,North Corniche,85 to 95 kg,تمرين الاثنين 2019/11/11,25.9,41.4,47.81,6647,6647,0,5905,male
+45 to 54,1124,2018-01-10,89,21.5,Headquarters Business Park,54 kg and under,Afternoon Ride,19.8,42.1,26.34,4785,4785,0,7746,male
+45 to 54,1010,2019-07-27,42,26.7,Headquarters Business Park,54 kg and under,Morning Ride,20.5,48.6,46.2,8124,8124,0,7699,male
+35 to 44,712,2016-02-03,91,28.0,Starbucks to Majid,75 to 84 kg,Night Ride,25.8,45.7,14.93,2081,2081,0,733,male
+35 to 44,752,2020-02-10,53,36.9,North Corniche,85 to 95 kg,Evening Ride,22.4,47.9,36.57,5884,5884,1,5409,male
+25 to 34,612,2020-03-06,6,25.1,Starbucks to Majid,54 kg and under,Morning Ride,23.4,31.0,60.02,9237,9237,0,624,female
+35 to 44,1236,2018-01-29,299,23.6,North Corniche,54 kg and under,Evening Ride,17.0,40.3,22.85,4854,4854,0,5654,male
+25 to 34,175,2016-12-05,39,34.3,S.Ubhur Alkurnaysh South Bound with detour,115 kg and over,تمرين اكثر من رائع مع دراج الحجاز ,30.7,49.3,42.32,4970,4970,0,1181,male
+45 to 54,1093,2018-10-29,34,27.6,Headquarters Business Park,65 to 74 kg,First Saudi ride,28.7,47.2,66.46,8330,8330,1,7691,male
+25 to 34,329,2013-12-03,154,18.6,PRINCE SULTAN - ASSALAM TO FATIMA,105 kg to 114 kg,Evening Ride,20.4,38.9,14.95,2635,2635,0,2821,male
+25 to 34,610,2019-01-04,1,33.4,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Morning Ride,29.1,43.6,58.2,7209,7209,1,1261,female
+45 to 54,987,2020-02-24,126,18.0,North Corniche,65 to 74 kg,Piste cyclable puis direction Obhur - Jeddah Cyclist,24.3,40.0,50.03,7404,7404,0,5875,male
+35 to 44,326,2016-05-25,91,34.4,North Corniche,85 to 95 kg,Night Ride,21.8,113.8,21.43,3535,3535,0,5446,male
+25 to 34,313,2018-11-19,156,34.3,Oghor 2 SailsIsland,54 kg and under,Evening Ride,25.3,56.9,51.34,7317,7317,0,3438,male
+25 to 34,442,2020-02-15,301,22.5,Starbucks to Majid,65 to 74 kg, smiling face with heart-eyes smiling face with smiling eyes ,18.9,46.8,26.54,5048,5048,0,453,male
+35 to 44,634,2016-06-04,68,13.0,Obhur North Short,85 to 95 kg,Afternoon Ride,15.6,46.4,32.42,7462,7462,0,1608,male
+25 to 34,438,2017-12-09,305,28.2,North Corniche,65 to 74 kg,Afternoon Ride,18.3,41.4,25.75,5058,5058,0,5100,male
+25 to 34,1439,2019-11-18,374,24.9,North Corniche,54 kg and under,Evening Ride,20.5,43.2,22.92,4034,4034,0,5170,male
+25 to 34,224,2017-12-08,25,37.2,S.Ubhur Alkurnaysh South Bound with detour,75 to 84 kg,Jeddah Cyclist Ride,25.1,44.3,54.49,7816,7816,1,1168,male
+20 to 24,51,2015-11-06,2,44.5,North Corniche,65 to 74 kg,Morning Ride,33.6,53.3,92.35,9903,9903,0,4680,male
+25 to 34,1484,2018-10-01,559,19.8,Oghor 2 SailsIsland,54 kg and under,Evening Ride,18.1,43.6,25.34,5043,5043,0,3887,male
+35 to 44,1081,2018-02-16,30,34.9,Al Fardoos to shellfish round about,65 to 74 kg,Morning Ride,25.7,43.6,93.37,13104,13104,1,1811,male
+25 to 34,1207,2018-10-18,634,18.0,Headquarters Business Park,115 kg and over,Night Ride,13.9,27.0,15.15,3911,3911,1,6898,male
+25 to 34,239,2015-10-14,246,21.1,King Street side,105 kg to 114 kg,Evening Ride,20.8,40.3,32.13,5560,5560,0,2227,male
+25 to 34,1055,2020-02-21,59,39.9,Oghor 2 SailsIsland,55 to 64 kg,Morning Ride,26.3,62.3,76.35,10443,10443,1,3341,male
+25 to 34,314,2018-03-06,172,26.5,Starbucks to Majid,54 kg and under,Evening Ride,29.2,56.9,25.68,3163,3163,0,323,male
+25 to 34,1411,2017-04-19,217,30.8,North Corniche,85 to 95 kg,Evening Ride,22.7,41.8,23.89,3790,3790,0,5012,male
+35 to 44,371,2019-07-12,254,26.3,North Corniche,54 kg and under,Morning Ride,22.8,40.3,56.48,8922,8922,1,5609,male
+35 to 44,1521,2017-02-06,135,33.7,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,30.4,39.6,42.12,4990,4990,0,4105,male
+35 to 44,801,2019-02-22,57,36.5,North Corniche,95 kg to 104 kg,Morning Ride,29.0,44.6,101.6,12632,12632,1,5414,male
+25 to 34,1053,2019-09-11,3,34.5,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,26.9,37.4,60.48,8104,8104,1,3948,female
+25 to 34,527,2016-09-09,553,20.3,Oghor 2 SailsIsland,65 to 74 kg,Morning Ride,18.2,40.3,22.08,4375,4375,0,3881,male
+45 to 54,980,2013-11-29,58,24.6,Starbucks to Majid,85 to 95 kg,Morning Ride,17.6,37.8,61.91,12645,12645,0,1027,male
+25 to 34,466,2018-01-24,234,22.5,King Street side,85 to 95 kg,مشاركة مجدولة درّاج جدة,23.7,49.3,54.27,8242,8242,0,2215,male
+35 to 44,1255,2019-03-08,212,14.6,King Street side,65 to 74 kg,Morning Ride,18.3,30.6,38.08,7489,7489,0,2495,male
+35 to 44,802,2019-11-15,193,23.5,Starbucks to Majid,,Evening Ride,20.7,38.2,17.63,3065,3065,0,835,male
+20 to 24,119,2020-01-14,53,28.3,North Corniche,75 to 84 kg,Afternoon Ride,23.9,46.8,13.84,2083,2083,0,4731,male
+25 to 34,293,2019-11-25,128,29.5,King Street side,,Evening Ride,25.1,72.7,51.98,7455,7455,0,2110,male
+35 to 44,1552,2017-10-30,307,22.8,North Corniche,55 to 64 kg,Evening Ride,19.7,35.6,19.67,3588,3588,0,5662,male
+45 to 54,955,2019-05-27,42,13.9,S.Ubhur Alkurnaysh South Bound with detour,95 kg to 104 kg,That was long.. grinning squinting face  crescent moon ,22.2,37.8,108.48,17615,17615,1,1410,male
+35 to 44,740,2019-08-09,95,28.1,Headquarters Business Park,85 to 95 kg,Afternoon Ride,26.0,31.7,22.71,3149,3149,0,7222,male
+25 to 34,1294,2016-05-08,97,26.8,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Night Ride,20.9,38.2,29.57,5093,5093,0,2764,male
+35 to 44,728,2019-10-12,178,25.0,Headquarters Business Park,105 kg to 114 kg,تمرين المسابقه رقمي 133 man biking check mark button ,24.0,38.9,45.4,6806,6806,0,7306,male
+20 to 24,101,2017-10-30,9,30.6,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,تمرين مع دراج جده two hearts ,21.1,41.4,76.7,13110,13110,0,2651,male
+20 to 24,64,2016-02-29,16,30.2,Starbucks to Majid,55 to 64 kg,Evening Ride,26.8,41.4,44.49,5970,5970,0,65,male
+25 to 34,403,2019-12-23,499,20.4,Headquarters Business Park,54 kg and under,Evening Ride,21.5,37.8,44.53,7464,7464,0,6764,male
+25 to 34,355,2013-11-29,280,28.9,North Corniche,85 to 95 kg,تمرين رائع صباح الجمعة كورنيش جدة أبحر الشمالية والعودة,26.1,39.6,84.27,11622,11622,0,5075,male
+25 to 34,1053,2019-12-06,3,26.4,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Morning Ride,9.5,14.0,18.34,6957,6957,1,1263,female
+45 to 54,682,2020-03-30,7,39.5,S.Ubhur Alkurnaysh South Bound with detour,75 to 84 kg,Morning Ride,35.2,50.0,38.13,3899,3899,0,1375,male
+25 to 34,531,2019-07-01,537,19.7,Headquarters Business Park,75 to 84 kg,Afternoon Ride,17.1,48.6,23.16,4864,4864,0,6803,male
+25 to 34,624,2020-02-17,31,17.4,Headquarters Business Park,54 kg and under,with Brave Cyclist woman biking ,17.4,25.6,31.05,6434,6434,0,7100,female
+45 to 54,1122,2018-07-25,34,26.8,Obhur North Short,54 kg and under,Morning Ride,24.9,42.1,56.06,8122,8122,0,1656,male
+25 to 34,163,2019-04-27,18,38.6,Starbucks to Majid,85 to 95 kg,Morning Ride,27.9,73.4,45.38,5848,5848,0,169,male
+35 to 44,1222,2020-04-03,64,33.0,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,"Lone rider, along with the usual winds",25.9,42.8,57.48,7978,7978,1,2897,male
+35 to 44,802,2019-11-15,283,24.6,North Corniche,,Evening Ride,20.7,38.2,17.63,3065,3065,0,5639,male
+35 to 44,355,2019-08-21,130,22.5,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Evening Ride,30.1,63.7,61.02,7291,7291,1,2963,male
+35 to 44,665,2019-03-24,31,33.4,Headquarters Business Park,95 kg to 104 kg,قليل دائم خير من كثير منقطع clapping hands: light skin tone red heart man biking: light skin tone ,15.8,71.3,22.02,5033,5033,0,7157,male
+25 to 34,526,2013-12-30,503,20.3,Headquarters Business Park,54 kg and under,Evening Ride,19.1,39.2,21.67,4084,4084,0,6768,male
+25 to 34,1812,2018-10-05,298,24.0,Headquarters Business Park,75 to 84 kg,Morning Ride,21.7,27.7,16.95,2816,2816,1,6563,male
+25 to 34,303,2019-01-07,150,34.5,Oghor 2 SailsIsland,54 kg and under,Evening Ride,25.6,42.1,53.63,7556,7556,0,3482,male
+25 to 34,407,2013-10-27,285,13.7,King Street side,85 to 95 kg,تمرين استثنائي بمناسبة حضور الاخ فهد,20.6,33.5,35.15,6157,6157,0,2266,male
+55 to 64,1036,2018-11-03,7,30.7,Starbucks to Majid,75 to 84 kg,Morning Ride,28.8,44.3,59.01,7375,7375,1,1087,male
+35 to 44,1576,2014-06-26,418,13.7,Oghor 2 SailsIsland,75 to 84 kg,Night Ride,19.7,39.6,25.18,4610,4610,0,4387,male
+35 to 44,1481,2019-07-11,394,18.9,Headquarters Business Park,85 to 95 kg,Night Ride,18.4,29.9,18.39,3591,3591,0,7524,male
+25 to 34,340,2014-08-23,198,25.7,Starbucks to Majid,65 to 74 kg,أول تمرين مع جده سايكلست,24.2,40.7,27.07,4033,4033,0,349,male
+25 to 34,424,2016-09-26,298,29.4,Oghor 2 SailsIsland,54 kg and under,Mezo,21.7,49.3,53.09,8790,8790,0,3626,male
+35 to 44,911,2018-09-08,425,17.1,Headquarters Business Park,54 kg and under,Night Ride,16.7,31.3,17.51,3781,3781,0,7552,male
+35 to 44,851,2018-07-20,366,22.1,Oghor 2 SailsIsland,65 to 74 kg,Night Ride,19.7,39.2,39.41,7205,7205,0,4335,male
+35 to 44,2076,2019-03-23,112,27.2,Headquarters Business Park,54 kg and under,Evening Ride,21.1,43.6,20.65,3520,3520,0,7244,male
+35 to 44,687,2018-12-17,58,26.6,S.Ubhur Alkurnaysh South Bound with detour,85 to 95 kg,Evening Ride,23.3,35.6,50.53,7812,7812,0,1321,male
+25 to 34,585,2019-04-24,361,25.6,North Corniche,65 to 74 kg,Evening Ride,21.0,36.0,37.02,6342,6342,0,5157,male
+45 to 54,993,2019-04-21,78,29.0,North Corniche,75 to 84 kg,Night Ride,21.3,39.2,51.25,8660,8660,1,5827,male
+35 to 44,683,2017-08-14,27,40.2,North Corniche,95 kg to 104 kg,Night Ride,30.5,43.6,29.92,3535,3535,1,5382,male
+25 to 34,1137,2017-08-11,84,28.1,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Morning Ride,28.5,45.7,70.84,8951,8951,1,2750,male
+25 to 34,596,2018-12-04,238,25.2,Headquarters Business Park,54 kg and under, check mark ,22.3,65.9,26.83,4329,4329,0,6505,male
+35 to 44,452,2018-09-08,30,39.5,North Corniche,75 to 84 kg,Afternoon Ride,23.6,54.4,54.0,8226,8226,0,5385,male
+45 to 54,943,2019-08-02,20,30.8,Headquarters Business Park,85 to 95 kg,Solo Morning Ride,29.9,36.7,100.1,12056,12056,1,7677,male
+20 to 24,144,2018-06-25,100,5.0,Starbucks to Majid,54 kg and under,Evening Ride,21.5,41.8,57.25,9596,9596,0,149,male
+25 to 34,1172,2017-05-24,52,40.3,Oghor 2 SailsIsland,54 kg and under,晚间骑行,22.3,46.1,19.11,3082,3082,0,3332,male
+55 to 64,1034,2016-06-03,1,34.7,Obhur North Short,65 to 74 kg,Morning Ride,29.2,51.8,112.02,13835,13835,0,1672,male
+25 to 34,1410,2019-12-10,477,20.6,Headquarters Business Park,85 to 95 kg,ضغط على السرعة,20.2,38.9,27.91,4979,4979,0,6749,male
+35 to 44,808,2018-08-13,202,30.4,Oghor 2 SailsIsland,54 kg and under,Evening Ride,24.0,49.7,51.66,7747,7747,0,4174,male
+35 to 44,884,2018-10-09,341,19.9,North Corniche,54 kg and under,Evening Ride,15.3,39.6,35.03,8258,8258,0,5696,male
+20 to 24,126,2018-02-10,67,23.7,Headquarters Business Park,54 kg and under,Afternoon Ride,17.4,41.4,26.11,5406,5406,0,6119,male
+35 to 44,796,2018-11-07,326,21.4,North Corniche,95 kg to 104 kg,Night Ride,18.2,31.7,8.53,1684,1684,0,5681,male
+25 to 34,408,2017-12-31,266,23.6,Starbucks to Majid,75 to 84 kg,Night Ride,20.4,38.9,22.15,3907,3907,0,418,male
+35 to 44,668,2016-01-09,9,43.9,North Corniche,85 to 95 kg,Morning Ride,27.7,47.2,42.83,5571,5571,1,5364,male
+20 to 24,139,2013-12-13,160,16.1,Headquarters Business Park,65 to 74 kg,تمرين جدة الكورنيش,18.5,41.4,38.13,7407,7407,0,6211,male
+25 to 34,394,2015-05-11,212,25.8,Headquarters Business Park,65 to 74 kg,Night Ride,23.6,38.5,23.01,3503,3503,0,6476,male
+35 to 44,662,2016-11-09,34,33.4,Starbucks to Majid,75 to 84 kg,Evening Ride,27.8,46.8,21.29,2754,2754,1,676,male
+35 to 44,926,2017-11-04,8,24.4,North Corniche,75 to 84 kg,South Cornish,20.2,34.2,33.11,5914,5914,0,5746,female
+35 to 44,1542,2018-01-31,300,25.4,Oghor 2 SailsIsland,54 kg and under,Evening Ride,19.1,31.7,20.8,3927,3927,0,4269,male
+25 to 34,269,2016-02-17,122,28.1,Headquarters Business Park,95 kg to 104 kg,Evening Ride,18.5,49.3,36.25,7049,7049,0,6386,male
+45 to 54,932,2018-07-19,1,62.6,King Street side,85 to 95 kg,Lunch Ride,27.1,76.0,79.75,10594,10594,1,2513,male
+25 to 34,1183,2019-08-14,167,27.1,King Street side,55 to 64 kg,Afternoon Ride,24.8,52.2,89.95,13060,13060,0,2149,male
+25 to 34,498,2020-02-07,358,19.8,Starbucks to Majid,54 kg and under,Morning Ride,17.8,34.2,25.9,5240,5240,0,509,male
+19 and under,37,2019-01-26,10,29.4,Headquarters Business Park,54 kg and under,My first race folded hands: light skin tone ,27.8,41.4,20.94,2713,2713,0,5948,male
+25 to 34,2037,2018-12-15,13,22.7,Headquarters Business Park,54 kg and under,Evening Ride,20.1,74.9,29.18,5214,5214,0,7082,female
+35 to 44,1259,2019-12-09,429,17.0,Headquarters Business Park,85 to 95 kg,Evening Ride,16.7,26.6,23.67,5094,5094,0,7556,male
+35 to 44,259,2020-03-09,118,27.0,Starbucks to Majid,95 kg to 104 kg,Evening Ride,23.4,37.1,25.6,3937,3937,0,761,male
+20 to 24,129,2017-12-04,109,21.5,Oghor 2 SailsIsland,54 kg and under,Evening Ride,18.2,60.1,27.24,5392,5392,0,3244,male
+45 to 54,967,2018-04-13,31,31.5,Al Fardoos to shellfish round about,75 to 84 kg,Morning Ride,27.3,39.6,86.29,11400,11400,0,1870,male
+55 to 64,1043,2017-12-04,17,24.6,Headquarters Business Park,75 to 84 kg,Evening Ride,21.5,40.7,54.07,9038,9038,0,7840,male
+35 to 44,722,2018-11-07,224,29.4,Oghor 2 SailsIsland,75 to 84 kg,Evening Ride,25.9,39.6,52.07,7246,7246,0,4194,male
+25 to 34,571,2018-03-22,270,17.6,King Street side,75 to 84 kg,Afternoon Ride,17.9,36.7,35.37,7115,7115,0,2251,male
+25 to 34,341,2018-11-26,53,32.3,Headquarters Business Park,54 kg and under,Morning Ride,52.6,127.4,33.66,2303,2303,1,6318,male
+20 to 24,90,2013-10-04,72,23.4,Headquarters Business Park,85 to 95 kg,Morning Ride,21.3,55.1,49.96,8454,8454,0,6123,male
+45 to 54,1610,2018-08-18,124,18.6,North Corniche,54 kg and under,Morning Ride,17.7,31.7,35.73,7251,7251,0,5873,male
+25 to 34,617,2019-11-08,21,18.3,Oghor 2 SailsIsland,54 kg and under,Morning Ride,16.9,28.1,44.03,9406,9406,0,3966,female
+35 to 44,875,2020-01-11,195,19.4,King Street side,,MTB ride,17.0,59.0,64.78,13715,13715,0,2478,male
+25 to 34,1134,2019-09-20,21,38.9,Al Fardoos to shellfish round about,54 kg and under,Morning Ride,31.5,51.8,74.53,8529,8529,1,1726,male
+35 to 44,654,2017-11-15,36,38.7,North Corniche,65 to 74 kg,Morning Ride,30.8,47.2,42.79,4999,4999,1,5391,male
+25 to 34,351,2019-11-25,102,17.5,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Evening Ride,24.9,39.2,52.49,7601,7601,0,1244,male
+19 and under,49,2019-12-02,3,16.4,Starbucks to Majid,54 kg and under,Evening Ride,17.5,31.0,31.01,6381,6381,0,48,female
+25 to 34,312,2019-10-09,170,26.5,Starbucks to Majid,54 kg and under,Evening Ride,24.8,44.6,22.67,3296,3296,0,321,male
+20 to 24,91,2018-02-09,64,24.0,Headquarters Business Park,75 to 84 kg,Friday morning ride,25.3,58.7,52.99,7532,7532,0,6115,male
+45 to 54,874,2016-12-17,136,14.1,North Corniche,85 to 95 kg,Morning Ride,14.3,26.6,16.55,4155,4155,1,5885,male
+25 to 34,577,2020-03-07,274,30.3,Oghor 2 SailsIsland,75 to 84 kg,Afternoon Ride,18.5,37.4,25.6,4989,4989,1,3605,male
+25 to 34,367,2016-12-05,67,37.7,North Corniche,75 to 84 kg,Evening Ride,27.4,49.0,34.67,4548,4548,0,4863,male
+25 to 34,1055,2020-01-03,4,44.1,S.Ubhur Alkurnaysh South Bound with detour,55 to 64 kg,Morning Ride,39.7,60.5,33.7,3056,3056,1,1146,male
+35 to 44,1223,2019-04-12,165,30.7,North Corniche,65 to 74 kg,Morning Ride,23.8,38.9,62.98,9512,9512,0,5521,male
+25 to 34,500,2019-07-17,360,19.7,Starbucks to Majid,54 kg and under,Evening Ride,19.3,59.4,25.54,4774,4774,0,511,male
+25 to 34,1921,2019-06-22,613,18.3,Headquarters Business Park,,Morning Ride,16.2,37.8,15.25,3390,3390,0,6880,male
+25 to 34,288,2019-03-01,144,27.3,Starbucks to Majid,54 kg and under,Morning Ride,24.2,39.2,51.76,7709,7709,0,296,male
+25 to 34,256,2016-04-25,204,26.0,Headquarters Business Park,54 kg and under,Evening Ride,23.4,48.2,27.17,4183,4183,0,6468,male
+35 to 44,1241,2018-11-02,321,24.5,Oghor 2 SailsIsland,54 kg and under,Morning Ride,22.1,33.8,24.28,3957,3957,0,4291,male
+25 to 34,1803,2018-03-28,233,25.3,Headquarters Business Park,54 kg and under,Evening Ride,14.0,29.2,6.57,1692,1692,0,6497,male
+20 to 24,134,2018-02-10,20,21.5,PRINCE SULTAN - ASSALAM TO FATIMA,54 kg and under,Night Ride,18.4,38.2,43.57,8536,8536,0,2662,male
+25 to 34,240,2015-02-09,195,26.1,Headquarters Business Park,105 kg to 114 kg,Evening Ride,23.9,38.9,24.73,3728,3728,0,6462,male
+45 to 54,955,2019-05-19,32,36.1,North Corniche,95 kg to 104 kg,Mission accomplished sun ,25.2,41.0,100.1,14304,14304,1,5782,male
+25 to 34,315,2019-06-16,634,18.0,Headquarters Business Park,54 kg and under,Afternoon Ride,21.6,70.9,29.16,4858,4858,0,6899,male
+19 and under,25,2019-06-14,26,32.2,Oghor 2 SailsIsland,85 to 95 kg,Morning Ride,20.5,40.3,30.0,5274,5274,0,3101,male
+25 to 34,175,2019-08-14,28,35.5,Starbucks to Majid,115 kg and over,تمرين على السريع وحداني ,25.8,44.6,52.65,7359,7359,0,181,male
+25 to 34,205,2017-12-11,202,25.1,King Street side,115 kg and over,Evening Ride,22.9,33.1,38.05,5976,5976,0,2183,male
+25 to 34,508,2016-05-09,311,29.2,Oghor 2 SailsIsland,54 kg and under,Evening Ride,18.1,49.3,21.84,4347,4347,0,3639,male
+20 to 24,92,2019-12-23,31,32.1,North Corniche,75 to 84 kg,رايد مع وحوش جده Jeddah cyclists ,24.6,38.5,48.11,7049,7049,0,4709,male
+35 to 44,853,2018-02-25,248,20.2,Starbucks to Majid,,تمرين يوم الاحد,19.9,73.1,17.32,3133,3133,0,889,male
+35 to 44,675,2017-08-02,21,41.8,North Corniche,75 to 84 kg,Night Ride,29.8,47.9,41.19,4979,4979,1,5377,male
+35 to 44,653,2019-11-14,14,37.7,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Morning buzz with the yoyo,36.3,51.1,40.65,4033,4033,1,1277,male
+25 to 34,615,2019-02-15,6,31.7,Oghor 2 SailsIsland,54 kg and under,Afternoon Ride,21.2,73.1,104.74,17814,17814,0,3951,female
+45 to 54,1090,2019-11-17,128,16.4,Headquarters Business Park,65 to 74 kg,Evening Ride,22.7,48.2,22.82,3628,3628,0,7786,male
+25 to 34,556,2015-03-04,498,22.3,Oghor 2 SailsIsland,95 kg to 104 kg,Evening Ride,16.6,34.6,22.91,4981,4981,0,3826,male
+25 to 34,1201,2016-03-29,51,34.7,PRINCE SULTAN - ASSALAM TO FATIMA,75 to 84 kg,Evening Ride,23.7,47.2,44.38,6734,6734,0,2718,male
+25 to 34,247,2017-03-18,26,38.1,Al Fardoos to shellfish round about,65 to 74 kg,Morning Ride,32.2,48.6,100.08,11187,11187,1,1731,male
+25 to 34,560,2018-11-28,379,27.1,Oghor 2 SailsIsland,,Evening Ride,19.5,38.2,28.14,5210,5210,0,3708,male
+20 to 24,1764,2019-04-14,11,12.5,Headquarters Business Park,54 kg and under,Night Ride,12.0,18.7,5.77,1734,1734,0,6260,female
+20 to 24,63,2015-10-18,83,23.1,North Corniche,115 kg and over,Evening Ride,20.7,43.6,12.21,2128,2128,0,4761,male
+25 to 34,328,2014-01-31,44,33.5,Headquarters Business Park,85 to 95 kg,Evening Ride finally,24.9,94.7,134.12,19355,19355,0,6309,male
+35 to 44,267,2018-11-19,13,42.9,North Corniche,65 to 74 kg,Evening bicycle leaf fluttering in wind Ride,36.5,52.2,53.18,5247,5247,1,5368,male
+25 to 34,1186,2017-08-11,197,25.3,King Street side,65 to 74 kg,Morning Ride,23.1,41.0,46.63,7256,7256,0,2178,male
+25 to 34,610,2018-12-21,4,28.2,Starbucks to Majid,65 to 74 kg,Morning Ride,28.7,36.4,37.37,4690,4690,1,622,female
+45 to 54,695,2019-11-09,41,27.7,Starbucks to Majid,85 to 95 kg,دوامي يبدأ رياضي,18.6,38.9,21.0,4062,4062,0,1010,male
+45 to 54,984,2016-08-17,83,27.9,North Corniche,95 kg to 104 kg,Night Ride,21.7,33.5,25.15,4176,4176,0,5832,male
+20 to 24,56,2016-08-27,6,32.1,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Evening Ride,23.3,47.9,26.65,4112,4112,0,2648,male
+35 to 44,804,2019-12-12,344,20.5,Headquarters Business Park,95 kg to 104 kg,تمرين جدة thumbs up: light skin tone ,19.7,36.7,20.71,3787,3787,0,7475,male
+35 to 44,675,2020-01-06,66,14.0,Obhur North Short,75 to 84 kg,Afternoon Ride,30.0,45.7,126.78,15229,15229,1,1606,male
+45 to 54,1266,2020-01-17,70,23.7,King Street side,85 to 95 kg,Morning Ride,21.9,140.8,55.36,9120,9120,0,2582,male
+35 to 44,1228,2018-08-14,122,26.5,King Street side,85 to 95 kg,Morning Ride,23.5,37.1,23.14,3549,3549,0,2405,male
+45 to 54,949,2019-10-18,5,42.9,Al Fardoos to shellfish round about,75 to 84 kg,Morning Ride,33.5,80.3,80.4,8651,8651,1,1844,male
+45 to 54,938,2018-12-24,25,31.1,S.Ubhur Alkurnaysh South Bound with detour,85 to 95 kg,Morning Ride,28.2,35.3,46.02,5876,5876,0,1393,male
+25 to 34,402,2018-10-24,228,25.4,Headquarters Business Park,,Evening Ride,16.1,37.1,13.33,2986,2986,0,6494,male
+35 to 44,715,2018-07-20,294,22.2,Headquarters Business Park,55 to 64 kg,تمرين خفيف ,28.6,44.3,51.02,6424,6424,1,7423,male
+25 to 34,1432,2020-03-10,392,26.7,Oghor 2 SailsIsland,54 kg and under,Evening Ride,17.6,37.4,67.55,13823,13823,0,3721,male
+35 to 44,763,2016-10-24,195,29.3,North Corniche,95 kg to 104 kg,Evening Ride,21.4,54.4,21.27,3581,3581,0,5550,male
+25 to 34,195,2018-10-10,148,27.3,Headquarters Business Park,55 to 64 kg,Evening Ride,23.0,38.5,51.67,8081,8081,1,6416,male
+25 to 34,532,2020-02-24,391,18.1,Starbucks to Majid,75 to 84 kg,Evening Ride,17.8,41.8,19.97,4030,4030,0,543,male
+20 to 24,144,2018-06-17,23,29.9,Headquarters Business Park,54 kg and under,Morning Ride,22.3,48.2,33.99,5490,5490,0,6076,male
+35 to 44,1328,2016-08-05,94,29.3,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,On Road Jeddah,18.8,43.6,42.06,8059,8059,0,2927,male
+35 to 44,685,2016-12-14,33,39.0,North Corniche,75 to 84 kg,Evening Ride,30.1,44.3,37.91,4533,4533,1,5388,male
+45 to 54,948,2019-12-21,44,2.9,S.Ubhur Alkurnaysh South Bound with detour,54 kg and under,Morning Ride,26.0,39.6,46.46,6428,6428,0,1412,male
+35 to 44,1566,2019-09-30,389,19.8,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,18.6,47.5,20.98,4070,4070,0,4359,male
+35 to 44,850,2018-04-16,67,37.6,Oghor 2 SailsIsland,65 to 74 kg,Night Ride,30.6,72.0,46.93,5529,5529,0,4038,male
+35 to 44,802,2019-11-08,65,25.4,S.Ubhur Alkurnaysh South Bound with detour,,Afternoon Ride,23.9,37.8,43.47,6553,6553,0,1328,male
+25 to 34,1316,2019-05-24,660,17.3,Headquarters Business Park,54 kg and under,Night Ride,15.1,46.1,21.49,5137,5137,0,6927,male
+25 to 34,1445,2018-03-25,363,22.7,Headquarters Business Park,54 kg and under,Night Ride,18.3,47.2,23.98,4731,4731,0,6627,male
+35 to 44,1534,2018-10-15,215,28.5,North Corniche,65 to 74 kg,Evening Ride,16.0,41.8,26.17,5895,5895,1,5571,male
+35 to 44,794,2013-11-02,259,27.9,Oghor 2 SailsIsland,95 kg to 104 kg,Morning Ride,21.9,46.1,50.92,8385,8385,0,4229,male
+45 to 54,973,2018-07-06,48,26.1,Starbucks to Majid,105 kg to 114 kg,Morning Ride,24.0,37.4,41.7,6264,6264,1,1018,male
+25 to 34,1845,2019-07-31,429,21.6,Headquarters Business Park,54 kg and under,Night Ride,19.4,34.2,15.74,2918,2918,0,6695,male
+19 and under,1359,2018-04-09,51,13.5,North Corniche,54 kg and under,Night Ride,12.3,44.6,21.93,6394,6394,0,4672,male
+25 to 34,553,2019-03-30,298,24.0,Headquarters Business Park,54 kg and under,Evening Ride,16.5,35.3,30.72,6712,6712,0,6566,male
+25 to 34,624,2020-02-17,17,21.2,North Corniche,54 kg and under,with Brave Cyclist woman biking ,17.4,25.6,31.05,6434,6434,0,5351,female
+25 to 34,574,2019-01-23,434,15.5,Starbucks to Majid,65 to 74 kg,Night Ride,16.9,37.8,19.23,4095,4095,0,586,male
+35 to 44,902,2019-03-22,288,24.4,North Corniche,,Morning Ride,21.4,46.4,55.8,9394,9394,0,5643,male
+35 to 44,908,2017-03-14,458,15.3,Headquarters Business Park,54 kg and under,Night Ride,0.1,28.4,46.58,2937143,2937143,0,7584,male
+35 to 44,759,2020-02-17,93,34.2,North Corniche,54 kg and under,Evening Ride,23.4,44.3,51.45,7911,7911,0,5448,male
+19 and under,14,2019-04-06,19,33.5,Oghor 2 SailsIsland,54 kg and under,Morning Ride,26.8,44.6,56.5,7595,7595,0,3094,male
+20 to 24,1375,2018-01-08,194,5.2,Headquarters Business Park,54 kg and under,Evening Ride,16.6,34.6,22.32,4850,4850,0,6245,male
+35 to 44,820,2019-04-01,181,29.9,North Corniche,75 to 84 kg,تمرين مع دراج جدة,23.5,41.8,42.23,6473,6473,1,5537,male
+25 to 34,451,2018-05-09,210,24.5,King Street side,75 to 84 kg,مجدولة مجموعة جدة سايكلست على دراجة هجين man biking: medium skin tone smiling face with heart-eyes fire ,24.7,42.5,47.69,6956,6956,1,2191,male
+25 to 34,1486,2018-03-14,476,19.7,North Corniche,,Night Ride,17.9,37.4,10.94,2206,2206,0,5271,male
+19 and under,32,2019-10-18,32,22.1,Starbucks to Majid,54 kg and under,Afternoon Ride,19.8,36.4,18.09,3282,3282,0,31,male
+25 to 34,361,2016-10-28,457,24.2,Oghor 2 SailsIsland,75 to 84 kg,Morning Ride,24.5,39.6,52.33,7678,7678,0,3785,male
+45 to 54,648,2017-08-12,141,12.4,North Corniche,65 to 74 kg,Morning Ride,25.4,37.1,44.24,6281,6281,1,5890,male
+35 to 44,795,2018-11-05,273,23.0,Headquarters Business Park,65 to 74 kg,Evening Ride,18.6,32.4,24.21,4688,4688,0,7399,male
+19 and under,23,2019-05-08,24,33.1,North Corniche,55 to 64 kg,ثاني نص، تمرين جميل flexed biceps: light skin tone fire ,27.5,44.3,31.4,4106,4106,0,4645,male
+25 to 34,487,2019-08-16,244,21.2,King Street side,85 to 95 kg,تمرين جميل قطعت منه مسافه 17 كيلو ضد اتجاه الرياح ,21.0,35.3,30.72,5270,5270,0,2225,male
+20 to 24,1369,2018-03-21,75,27.2,Oghor 2 SailsIsland,54 kg and under,Night Ride,22.6,36.7,19.27,3070,3070,0,3210,male
+55 to 64,1619,2017-11-11,26,22.5,North Corniche,,Afternoon Ride,16.3,82.4,42.03,9310,9310,0,5923,male
+35 to 44,747,2019-05-27,130,26.3,Starbucks to Majid,95 kg to 104 kg,Night Ride,22.5,34.9,32.5,5195,5195,0,773,male
+25 to 34,1417,2019-12-26,184,26.4,Headquarters Business Park,85 to 95 kg,Jeddah Cornish Night Filter,23.7,66.2,30.01,4556,4556,0,6452,male
+25 to 34,485,2017-05-13,345,20.6,Starbucks to Majid,65 to 74 kg,Night Ride,20.3,45.7,37.16,6577,6577,0,496,male
+20 to 24,72,2017-11-20,5,41.5,King Street side,54 kg and under,Evening Ride,28.0,48.6,36.38,4672,4672,0,1926,male
+20 to 24,59,2019-06-26,24,28.7,King Street side,85 to 95 kg,Evening Ride (part 1),26.1,46.8,20.31,2804,2804,1,1945,male
+25 to 34,387,2018-12-06,333,26.9,North Corniche,85 to 95 kg,Evening Ride,16.3,44.6,58.42,12884,12884,0,5129,male
+25 to 34,233,2018-12-19,117,34.9,North Corniche,54 kg and under,Evening Ride,24.0,44.6,52.94,7931,7931,0,4912,male
+45 to 54,963,2019-04-27,31,27.8,Headquarters Business Park,75 to 84 kg,Morning Ride,26.5,39.6,43.91,5968,5968,1,7689,male
+35 to 44,842,2016-07-19,221,28.2,North Corniche,65 to 74 kg,تمسيكه بطططططططله,22.7,52.2,30.53,4838,4838,0,5576,male
+25 to 34,232,2019-03-02,88,29.9,Starbucks to Majid,75 to 84 kg,احلا تمرين مع احلا شباب,29.3,48.6,121.14,14898,14898,1,239,male
+25 to 34,409,2020-02-24,200,25.1,King Street side,54 kg and under,Evening Ride,24.3,48.2,50.01,7420,7420,0,2182,male
+25 to 34,580,2019-06-17,441,14.2,Starbucks to Majid,54 kg and under,Jeddah Time,16.7,33.5,56.94,12312,12312,0,592,male
+25 to 34,176,2017-03-15,88,32.7,King Street side,95 kg to 104 kg,Night Ride,30.7,45.0,45.99,5390,5390,1,2069,male
+25 to 34,174,2019-01-14,152,33.4,North Corniche,75 to 84 kg,Evening Ride,25.6,47.5,51.24,7218,7218,0,4949,male
+20 to 24,1131,2018-11-21,8,42.1,North Corniche,115 kg and over,Evening Ride,35.2,59.0,50.63,5184,5184,0,4686,male
+35 to 44,680,2019-03-25,32,42.4,Oghor 2 SailsIsland,54 kg and under,Morning Ride,31.0,46.4,37.41,4340,4340,0,4001,male
+35 to 44,777,2019-01-18,161,24.2,King Street side,115 kg and over,Afternoon Ride,22.6,54.0,119.17,18986,18986,0,2445,male
+35 to 44,795,2018-12-17,58,26.6,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,تمرين اليوم الاثنين ,22.4,38.5,69.56,11164,11164,0,1322,male
+19 and under,1,2018-12-10,26,25.4,Headquarters Business Park,54 kg and under,Afternoon Ride,37.0,150.8,52.93,5147,5147,0,5964,male
+25 to 34,284,2018-12-03,336,23.2,Headquarters Business Park,54 kg and under,Evening Ride,20.0,43.9,76.51,13747,13747,0,6603,male
+20 to 24,127,2019-08-09,83,19.0,Starbucks to Majid,,Evening Ride,16.7,34.9,54.73,11819,11819,0,132,male
+35 to 44,652,2016-12-19,33,42.2,Oghor 2 SailsIsland,65 to 74 kg,Evening Ride,23.8,50.8,31.0,4685,4685,0,4002,male
+25 to 34,1927,2018-06-05,627,18.1,Headquarters Business Park,75 to 84 kg,Night Ride,19.0,33.1,15.18,2878,2878,0,6891,male
+20 to 24,1364,2018-05-09,49,31.7,Oghor 2 SailsIsland,85 to 95 kg,Night Ride,19.7,45.4,21.0,3838,3838,0,3184,male
+35 to 44,395,2018-02-22,89,29.8,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Afternoon Ride,23.8,49.0,20.27,3070,3070,1,2922,male
+25 to 34,1414,2016-06-11,289,29.8,Oghor 2 SailsIsland,54 kg and under,Night Ride,21.6,70.2,29.36,4894,4894,0,3617,male
+25 to 34,345,2018-03-05,201,25.6,Starbucks to Majid,75 to 84 kg,Evening Ride,25.2,37.8,51.65,7365,7365,0,354,male
+25 to 34,78,2016-12-31,150,34.5,Oghor 2 SailsIsland,75 to 84 kg,Lunch Ride,19.2,48.2,23.8,4470,4470,0,3479,male
+35 to 44,688,2018-03-24,64,29.8,Starbucks to Majid,54 kg and under,Afternoon Ride,11.8,40.3,22.62,6896,6896,0,706,male
+25 to 34,608,2019-10-22,2,33.0,Starbucks to Majid,54 kg and under,Afternoon Ride,26.6,37.4,23.65,3202,3202,1,620,female
+19 and under,17,2019-01-01,10,39.2,North Corniche,54 kg and under,Night Ride,29.1,52.2,23.97,2968,2968,1,4631,male
+25 to 34,1981,2019-02-17,729,15.1,Headquarters Business Park,54 kg and under,Night Ride,13.7,37.4,13.79,3618,3618,0,6993,male
+35 to 44,1255,2019-03-08,383,20.6,Oghor 2 SailsIsland,65 to 74 kg,Morning Ride,18.3,30.6,38.08,7489,7489,0,4353,male
+20 to 24,117,2017-03-12,114,20.4,Headquarters Business Park,54 kg and under,Evening Ride,21.9,42.1,21.95,3615,3615,0,6165,male
+25 to 34,1407,2020-02-15,164,32.9,North Corniche,75 to 84 kg,Gorgeous Jeddah Ride,30.4,57.6,42.65,5055,5055,0,4960,male
+25 to 34,1513,2020-01-14,15,22.3,Oghor 2 SailsIsland,54 kg and under,Afternoon Ride,13.5,29.2,7.89,2107,2107,0,3960,female
+25 to 34,538,2018-06-26,398,17.9,Starbucks to Majid,75 to 84 kg,Byahe pauwi,20.3,39.6,18.34,3256,3256,0,549,male
+35 to 44,2113,2019-07-25,270,23.0,Headquarters Business Park,,Morning Ride,19.5,39.6,52.7,9726,9726,0,7398,male
+20 to 24,1101,2017-12-15,6,43.2,Oghor 2 SailsIsland,85 to 95 kg,Morning Ride,27.7,50.4,34.64,4499,4499,0,3143,male
+35 to 44,669,2017-08-21,7,41.0,King Street side,85 to 95 kg,Night Ride,32.7,49.0,38.34,4221,4221,1,2291,male
+25 to 34,310,2018-11-14,167,26.6,Starbucks to Majid,65 to 74 kg,Evening Ride,22.3,46.1,52.63,8491,8491,1,319,male
+35 to 44,791,2016-04-25,284,26.1,Oghor 2 SailsIsland,85 to 95 kg,Night Ride,18.8,32.0,24.22,4632,4632,0,4253,male
+25 to 34,1992,2019-02-12,747,13.9,Headquarters Business Park,54 kg and under,Evening Ride,13.5,25.9,10.29,2743,2743,0,7011,male
+45 to 54,945,2018-09-28,10,34.2,Obhur North Short,54 kg and under,Morning Ride,31.5,42.5,96.57,11052,11052,1,1632,male
+25 to 34,195,2018-10-10,171,32.7,North Corniche,55 to 64 kg,Evening Ride,23.0,38.5,51.67,8081,8081,1,4967,male
+35 to 44,268,2018-12-26,1,43.4,King Street side,65 to 74 kg,Evening Ride,31.7,50.4,54.67,6212,6212,1,2284,male
+19 and under,34,2019-02-27,1,44.3,North Corniche,54 kg and under,Evening Ride,32.6,54.0,41.96,4634,4634,0,4622,male
+25 to 34,494,2018-02-11,57,31.9,Headquarters Business Park,54 kg and under,الاحد ,20.4,47.2,30.51,5394,5394,0,6321,male
+25 to 34,328,2014-01-02,151,18.8,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Night Ride,18.2,46.8,51.93,10295,10295,0,2818,male
+25 to 34,536,2018-11-14,396,17.9,Starbucks to Majid,95 kg to 104 kg,جربها تقدر OK hand: medium-dark skin tone fire ,22.5,44.6,28.61,4574,4574,0,547,male
+35 to 44,223,2017-02-22,153,33.1,Oghor 2 SailsIsland,55 to 64 kg,Evening Ride,26.5,40.0,43.33,5881,5881,0,4122,male
+45 to 54,1595,2019-12-30,116,18.5,Headquarters Business Park,54 kg and under,Morning Ride,21.9,79.2,11.87,1954,1954,0,7773,male
+25 to 34,1986,2018-09-26,741,14.2,Headquarters Business Park,54 kg and under,Night Ride,17.1,31.7,12.23,2572,2572,0,7005,male
+35 to 44,653,2017-01-13,106,26.4,PRINCE SULTAN - ASSALAM TO FATIMA,65 to 74 kg,Morning Ride,25.6,38.9,75.03,10532,10532,1,2939,male
+25 to 34,241,2015-05-27,97,29.6,Starbucks to Majid,75 to 84 kg,Night Ride,23.6,38.9,23.29,3550,3550,0,248,male
+25 to 34,2060,2020-03-10,54,10.6,Headquarters Business Park,54 kg and under,Night Ride,14.0,32.8,9.37,2404,2404,0,7123,female
+25 to 34,182,2019-11-30,79,25.0,S.Ubhur Alkurnaysh South Bound with detour,75 to 84 kg,Part2|Ride|by|app,21.0,33.8,41.14,7067,7067,0,1221,male
+19 and under,20,2019-03-27,23,32.8,Oghor 2 SailsIsland,54 kg and under,Evening Ride,26.8,229.7,67.33,9033,9033,0,3098,male
+45 to 54,959,2019-03-01,11,38.1,Al Fardoos to shellfish round about,75 to 84 kg,تمرين ممتع مع JCS person biking: light skin tone person biking: light skin tone ,28.0,52.2,69.62,8938,8938,0,1850,male
+19 and under,1673,2019-02-15,98,2.7,Headquarters Business Park,54 kg and under,Evening Ride,15.4,36.7,36.22,8494,8494,0,6036,male
+25 to 34,564,2018-10-01,425,16.4,Starbucks to Majid,65 to 74 kg,Evening Ride,28.6,62.3,99.31,12509,12509,0,576,male
+25 to 34,379,2015-06-23,241,21.3,King Street side,75 to 84 kg,Double A Night Ride ,19.8,38.2,19.76,3600,3600,0,2223,male
+45 to 54,958,2020-03-25,1,43.9,Obhur North Short,85 to 95 kg,Morning Ride,36.2,59.0,50.02,4972,4972,1,1623,male
+35 to 44,1574,2019-06-02,367,13.6,North Corniche,54 kg and under,Night Ride,13.8,27.0,24.4,6376,6376,0,5722,male
+45 to 54,936,2016-04-22,30,32.7,Al Fardoos to shellfish round about,75 to 84 kg,Morning Ride,28.6,53.6,71.15,8964,8964,1,1869,male
+20 to 24,99,2019-07-26,59,24.4,Headquarters Business Park,54 kg and under,Morning Ride,21.1,31.0,20.24,3462,3462,0,6110,male
+35 to 44,1219,2017-07-17,344,23.4,Oghor 2 SailsIsland,95 kg to 104 kg,Night Ride,28.1,44.6,45.22,5794,5794,0,4313,male
+25 to 34,250,2015-03-07,106,29.1,Starbucks to Majid,105 kg to 114 kg,Night Ride ماشاء الله تمرين جداً رووعة وجدة كذا إتي وبحرر ,24.8,45.4,101.26,14693,14693,0,257,male
+25 to 34,183,2019-07-31,59,39.9,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,28.5,46.4,35.9,4542,4542,0,3340,male
+25 to 34,358,2018-06-10,216,25.2,Starbucks to Majid,75 to 84 kg,تمرين الساحل الغربي - جدة عروس البحر الأحمر,27.4,58.0,51.25,6725,6725,1,367,male
+25 to 34,1070,2017-11-15,476,23.3,Oghor 2 SailsIsland,54 kg and under,Morning Ride,17.7,37.4,38.31,7775,7775,0,3806,male
+25 to 34,318,2018-02-28,23,43.0,Oghor 2 SailsIsland,75 to 84 kg,Night Ride,28.1,54.7,40.34,5176,5176,0,3305,male
+25 to 34,162,2016-05-28,53,24.5,Obhur North Short,75 to 84 kg,تمرين مع الهواء الطلق :$,26.9,46.8,53.69,7197,7197,0,1509,male
+35 to 44,821,2019-04-14,362,20.0,Headquarters Business Park,75 to 84 kg,Afternoon Ride,17.3,41.0,86.05,17929,17929,0,7488,male
+20 to 24,76,2018-09-17,30,27.3,Starbucks to Majid,75 to 84 kg,تمرين مع دراج جده سبيدر,27.8,38.5,31.23,4039,4039,0,79,male
+35 to 44,731,2016-08-31,211,28.7,North Corniche,85 to 95 kg,Night Ride,20.3,44.6,25.48,4526,4526,0,5566,male
+35 to 44,768,2020-02-17,281,22.6,Headquarters Business Park,75 to 84 kg,Evening Ride,20.8,34.9,34.91,6049,6049,0,7410,male
+45 to 54,1092,2019-11-01,21,30.5,Obhur North Short,65 to 74 kg,Morning Ride,30.6,41.4,92.01,10810,10810,1,1643,male
+35 to 44,1577,2019-02-17,360,15.5,North Corniche,54 kg and under,Night Ride,12.2,42.5,21.98,6469,6469,0,5715,male
+19 and under,26,2018-10-19,52,18.4,Oghor 2 SailsIsland,85 to 95 kg,19/10/2018,22.2,38.2,48.0,7788,7788,0,3127,male
+25 to 34,1409,2019-09-13,180,32.6,North Corniche,54 kg and under,Morning Ride,26.3,38.5,26.49,3623,3623,0,4975,male
+25 to 34,455,2018-04-16,286,24.1,Headquarters Business Park,54 kg and under,Evening Ride,23.1,49.7,51.38,8020,8020,0,6550,male
+35 to 44,1523,2018-11-13,155,32.9,Oghor 2 SailsIsland,75 to 84 kg,Evening Ride,22.3,37.8,27.88,4508,4508,0,4125,male
+35 to 44,1230,2019-04-06,63,36.2,North Corniche,54 kg and under,Morning Ride,29.1,45.4,43.74,5409,5409,1,5419,male
+25 to 34,1399,2019-05-21,69,39.4,Oghor 2 SailsIsland,,Tra,24.9,42.8,47.74,6906,6906,0,3350,male
+20 to 24,126,2018-02-15,82,19.0,Starbucks to Majid,54 kg and under,Night workout ,20.3,37.8,50.92,9050,9050,0,131,male
+35 to 44,1567,2017-07-14,396,19.0,Oghor 2 SailsIsland,85 to 95 kg,Evening Ride,12.4,59.4,32.1,9347,9347,0,4366,male
+35 to 44,842,2016-03-28,200,30.5,Oghor 2 SailsIsland,65 to 74 kg,Night Ride,19.8,74.5,25.61,4663,4663,0,4169,male
+20 to 24,81,2014-04-09,35,26.3,Starbucks to Majid,54 kg and under,Night Ride,23.1,43.2,15.96,2486,2486,0,84,male
+45 to 54,998,2019-08-16,31,32.0,PRINCE SULTAN - ASSALAM TO FATIMA,95 kg to 104 kg,Bike 60 mins - 24.86kph - 48/70,24.3,37.4,24.23,3586,3586,1,3016,male
+25 to 34,551,2018-01-20,511,21.9,Oghor 2 SailsIsland,54 kg and under,Weekend bicycle ,17.5,90.7,45.93,9458,9458,0,3842,male
+25 to 34,1948,2018-12-17,672,17.1,Headquarters Business Park,75 to 84 kg,Morning Ride,15.8,23.4,4.98,1137,1137,0,6937,male
+35 to 44,1075,2019-02-20,42,38.1,North Corniche,54 kg and under,Evening Ride,30.5,49.3,37.49,4425,4425,0,5397,male
+25 to 34,368,2013-11-29,227,24.9,Starbucks to Majid,85 to 95 kg,تمرين الجمعة 1,20.4,37.4,25.97,4591,4591,0,378,male
+20 to 24,71,2017-07-17,58,30.3,Oghor 2 SailsIsland,75 to 84 kg,مجدولةة وسط الاسبوع person biking chocolate bar beaming face with smiling eyes ,27.9,42.1,36.18,4673,4673,0,3193,male
+25 to 34,309,2014-11-19,167,26.6,Starbucks to Majid,75 to 84 kg,Evening Ride,20.9,44.3,26.17,4501,4501,0,318,male
+25 to 34,2011,2018-09-23,774,11.0,Headquarters Business Park,85 to 95 kg,تمرين وفعاليات اليوم الوطني بجدة,12.0,33.8,13.69,4116,4116,0,7038,male
+45 to 54,932,2020-01-06,4,41.9,S.Ubhur Alkurnaysh South Bound with detour,85 to 95 kg,Evening Ride,27.5,50.8,95.04,12452,12452,1,1372,male
+20 to 24,66,2018-01-16,7,34.2,Al Fardoos to shellfish round about,75 to 84 kg,Morning Ride,30.4,46.8,75.82,8983,8983,1,1701,male
+25 to 34,1811,2019-05-04,297,24.0,Headquarters Business Park,54 kg and under,Morning Ride,19.9,37.8,17.07,3096,3096,0,6561,male
+25 to 34,218,2018-04-05,111,35.3,North Corniche,55 to 64 kg,جدة Jeddah,30.4,50.0,54.8,6494,6494,0,4908,male
+35 to 44,765,2018-10-03,116,27.1,King Street side,54 kg and under,Evening Ride,25.0,42.8,46.99,6769,6769,0,2399,male
+25 to 34,1105,2018-06-01,79,36.9,North Corniche,65 to 74 kg,Night Ride,29.5,41.4,44.13,5384,5384,1,4874,male
+25 to 34,149,2020-03-25,55,23.5,Obhur North Short,54 kg and under,Afternoon Ride,18.9,54.7,53.02,10107,10107,0,1511,male
+25 to 34,1472,2018-05-01,532,21.1,Oghor 2 SailsIsland,54 kg and under,Afternoon Ride,19.6,36.4,24.7,4532,4532,0,3862,male
+55 to 64,1034,2015-12-04,2,38.8,S.Ubhur Alkurnaysh South Bound with detour,65 to 74 kg,Morning Ride,29.9,50.4,92.92,11178,11178,0,1414,male
+20 to 24,69,2018-06-10,131,19.0,Headquarters Business Park,65 to 74 kg,Night Ride,23.8,34.9,47.84,7239,7239,0,6182,male
+45 to 54,1147,2019-05-06,37,29.9,King Street side,,Morning Ride,23.7,50.8,40.32,6123,6123,0,2549,male
+25 to 34,1291,2017-02-11,93,27.1,PRINCE SULTAN - ASSALAM TO FATIMA,95 kg to 104 kg,Morning Ride,20.8,33.8,15.41,2664,2664,0,2759,male
+35 to 44,896,2016-09-17,422,12.2,Oghor 2 SailsIsland,54 kg and under,Evening Ride,15.7,54.0,52.17,11998,11998,0,4391,male
+19 and under,26,2018-10-19,48,20.6,North Corniche,85 to 95 kg,19/10/2018,22.2,38.2,48.0,7788,7788,0,4669,male
+25 to 34,573,2018-09-16,434,15.5,Starbucks to Majid,,Evening Ride,17.4,38.9,29.17,6034,6034,0,585,male
+19 and under,37,2019-01-18,28,30.9,Oghor 2 SailsIsland,54 kg and under,First 30k in my life partying face ,23.2,42.8,30.94,4807,4807,0,3103,male
+45 to 54,958,2018-11-24,4,44.0,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Afternoon Ride,32.4,49.7,48.39,5376,5376,0,2988,male
+20 to 24,76,2018-09-17,43,26.1,Headquarters Business Park,75 to 84 kg,تمرين مع دراج جده سبيدر,27.8,38.5,31.23,4039,4039,0,6094,male
+45 to 54,646,2019-10-11,39,35.5,Oghor 2 SailsIsland,85 to 95 kg,Garmin troubles ... time for an upgrade.,32.1,39.6,19.18,2154,2154,0,4453,male
+35 to 44,730,2015-04-15,323,21.5,North Corniche,95 kg to 104 kg,Night Ride,17.2,73.1,19.51,4075,4075,0,5678,male
+45 to 54,2234,2018-02-16,151,7.7,Headquarters Business Park,54 kg and under,Evening Ride,9.6,46.4,5.19,1943,1943,0,7808,male
+25 to 34,192,2019-01-10,79,38.6,Oghor 2 SailsIsland,55 to 64 kg,Morning Ride,34.8,57.2,50.01,5171,5171,1,3357,male
+35 to 44,1073,2017-12-21,24,34.3,Headquarters Business Park,54 kg and under,Afternoon Ride,26.5,47.9,53.12,7204,7204,0,7150,male
+45 to 54,1126,2017-01-06,47,13.4,Obhur North Short,65 to 74 kg,injoy3,14.5,24.8,46.74,11583,11583,0,1669,male
+45 to 54,932,2017-04-19,13,37.9,PRINCE SULTAN - ASSALAM TO FATIMA,85 to 95 kg,Evening Ride,25.7,53.3,28.67,4012,4012,1,2997,male
+25 to 34,1215,2017-12-04,294,9.0,King Street side,54 kg and under,رحلة ينبع ,17.6,98.3,313.55,64282,64282,0,2275,male
+25 to 34,350,2018-05-17,60,32.3,PRINCE SULTAN - ASSALAM TO FATIMA,54 kg and under,Morning Ride,22.1,48.6,50.06,8151,8151,0,2726,male
+35 to 44,814,2018-07-16,221,24.0,Headquarters Business Park,75 to 84 kg,Evening Ride,22.0,41.0,56.15,9187,9187,0,7350,male
+35 to 44,1569,2015-12-07,401,18.4,Oghor 2 SailsIsland,75 to 84 kg,وتلوموني بجدة قطعت احلا مسافة ع اجمل شاطئ بالشرق الأوسط,16.4,41.4,45.38,9959,9959,0,4370,male
+25 to 34,280,2017-05-10,184,32.1,North Corniche,85 to 95 kg,Evening Ride,26.0,38.9,35.48,4913,4913,0,4979,male
+35 to 44,826,2016-04-11,336,21.1,Headquarters Business Park,54 kg and under,Evening Ride,17.6,105.5,10.57,2158,2158,0,7462,male
